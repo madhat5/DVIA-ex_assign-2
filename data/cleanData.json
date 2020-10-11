@@ -1,0 +1,2273 @@
+[{
+    "id": "nc73468771",
+    "updated": "2020-10-09T17:02:42.599Z",
+    "place": "6km NW of The Geysers, CA",
+    "lat": 38.8213348,
+    "long": -122.8046646,
+    "mag": 0.83,
+    "magType": "md"
+}, {
+    "id": "nc73468766",
+    "updated": "2020-10-09T17:02:27.311Z",
+    "place": "3km NNW of The Geysers, CA",
+    "lat": 38.7994995,
+    "long": -122.7750015,
+    "mag": 0.24,
+    "magType": "md"
+}, {
+    "id": "ci39658048",
+    "updated": "2020-10-09T16:50:49.032Z",
+    "place": "20km ESE of Little Lake, CA",
+    "lat": 35.8891667,
+    "long": -117.6961667,
+    "mag": 0.68,
+    "magType": "ml"
+}, {
+    "id": "ak020d0at4y4",
+    "updated": "2020-10-09T17:08:58.040Z",
+    "place": "45 km SSW of Noatak, Alaska",
+    "lat": 67.2214,
+    "long": -163.5154,
+    "mag": 3.5,
+    "magType": "ml"
+}, {
+    "id": "nc73468761",
+    "updated": "2020-10-09T16:34:02.731Z",
+    "place": "16km S of Tres Pinos, CA",
+    "lat": 36.6489983,
+    "long": -121.2856674,
+    "mag": 1.82,
+    "magType": "md"
+}, {
+    "id": "ak020d0as0k9",
+    "updated": "2020-10-09T16:31:11.783Z",
+    "place": "60 km S of Denali National Park, Alaska",
+    "lat": 63.0069,
+    "long": -151.5019,
+    "mag": 1.8,
+    "magType": "ml"
+}, {
+    "id": "nn00777952",
+    "updated": "2020-10-09T16:20:55.928Z",
+    "place": "31 km SE of Mina, Nevada",
+    "lat": 38.1862,
+    "long": -117.8523,
+    "mag": 1.2,
+    "magType": "ml"
+}, {
+    "id": "nn00777949",
+    "updated": "2020-10-09T16:14:53.709Z",
+    "place": "33 km S of Lovelock, Nevada",
+    "lat": 39.8795,
+    "long": -118.406,
+    "mag": 1.1,
+    "magType": "ml"
+}, {
+    "id": "nn00777945",
+    "updated": "2020-10-09T16:01:35.908Z",
+    "place": "28 km SSE of Mina, Nevada",
+    "lat": 38.1497,
+    "long": -118.0107,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "nn00777942",
+    "updated": "2020-10-09T15:53:34.310Z",
+    "place": "39 km SE of Mina, Nevada",
+    "lat": 38.1378,
+    "long": -117.7917,
+    "mag": 1.1,
+    "magType": "ml"
+}, {
+    "id": "ci39658000",
+    "updated": "2020-10-09T15:44:10.618Z",
+    "place": "9km NW of San Jacinto, CA",
+    "lat": 33.8378333,
+    "long": -117.0258333,
+    "mag": 1.1,
+    "magType": "ml"
+}, {
+    "id": "ci39657992",
+    "updated": "2020-10-09T16:11:15.739Z",
+    "place": "21km ESE of Little Lake, CA",
+    "lat": 35.8803333,
+    "long": -117.6836667,
+    "mag": 0.69,
+    "magType": "ml"
+}, {
+    "id": "pr2020283010",
+    "updated": "2020-10-09T16:07:16.198Z",
+    "place": "5 km SE of Maria Antonia, Puerto Rico",
+    "lat": 17.9385,
+    "long": -66.8535,
+    "mag": 2.16,
+    "magType": "md"
+}, {
+    "id": "us6000c74a",
+    "updated": "2020-10-09T16:51:20.040Z",
+    "place": "77 km N of Bandar Abbas, Iran",
+    "lat": 27.8841,
+    "long": 56.3344,
+    "mag": 4.4,
+    "magType": "mb"
+}, {
+    "id": "ci39657976",
+    "updated": "2020-10-09T16:13:51.770Z",
+    "place": "11km SSW of Trona, CA",
+    "lat": 35.669,
+    "long": -117.4045,
+    "mag": -0.24,
+    "magType": "ml"
+}, {
+    "id": "nc73468736",
+    "updated": "2020-10-09T16:34:06.870Z",
+    "place": "3km NNW of The Geysers, CA",
+    "lat": 38.8003349,
+    "long": -122.7731705,
+    "mag": 0.93,
+    "magType": "md"
+}, {
+    "id": "us6000c745",
+    "updated": "2020-10-09T15:27:47.040Z",
+    "place": "2 km SSW of La Mesa, New Mexico",
+    "lat": 32.1018,
+    "long": -106.721,
+    "mag": 2.7,
+    "magType": "ml"
+}, {
+    "id": "ci39657944",
+    "updated": "2020-10-09T15:57:04.088Z",
+    "place": "20km E of Little Lake, CA",
+    "lat": 35.905,
+    "long": -117.6825,
+    "mag": 0.45,
+    "magType": "ml"
+}, {
+    "id": "ok2020twjl",
+    "updated": "2020-10-09T16:01:42.394Z",
+    "place": "9 km NNW of Perry, Oklahoma",
+    "lat": 36.36466667,
+    "long": -97.34316667,
+    "mag": 1.95,
+    "magType": "ml"
+}, {
+    "id": "ci39657928",
+    "updated": "2020-10-09T14:52:17.833Z",
+    "place": "11km NE of Coso Junction, CA",
+    "lat": 36.1063333,
+    "long": -117.8461667,
+    "mag": 1.23,
+    "magType": "ml"
+}, {
+    "id": "ci39657936",
+    "updated": "2020-10-09T16:15:21.672Z",
+    "place": "14km S of Joshua Tree, CA",
+    "lat": 34.0073333,
+    "long": -116.3275,
+    "mag": 0.57,
+    "magType": "ml"
+}, {
+    "id": "ci39657912",
+    "updated": "2020-10-09T14:49:00.173Z",
+    "place": "16km N of Borrego Springs, CA",
+    "lat": 33.3956667,
+    "long": -116.4078333,
+    "mag": 0.5,
+    "magType": "ml"
+}, {
+    "id": "ci39657896",
+    "updated": "2020-10-09T16:21:51.827Z",
+    "place": "16km NE of Little Lake, CA",
+    "lat": 36.0238333,
+    "long": -117.7691667,
+    "mag": 0.23,
+    "magType": "ml"
+}, {
+    "id": "nn00777939",
+    "updated": "2020-10-09T15:43:34.184Z",
+    "place": "37 km ESE of Mina, Nevada",
+    "lat": 38.2333,
+    "long": -117.7333,
+    "mag": 1,
+    "magType": "ml"
+}, {
+    "id": "nc73468726",
+    "updated": "2020-10-09T14:42:07.115Z",
+    "place": "2km ENE of The Geysers, CA",
+    "lat": 38.7841682,
+    "long": -122.734169,
+    "mag": 0.65,
+    "magType": "md"
+}, {
+    "id": "ci39657872",
+    "updated": "2020-10-09T14:22:37.084Z",
+    "place": "23km ESE of Little Lake, CA",
+    "lat": 35.872,
+    "long": -117.6688333,
+    "mag": 0.57,
+    "magType": "ml"
+}, {
+    "id": "ci39657856",
+    "updated": "2020-10-09T14:19:32.205Z",
+    "place": "13km WNW of Anza, CA",
+    "lat": 33.588,
+    "long": -116.8103333,
+    "mag": 0.33,
+    "magType": "ml"
+}, {
+    "id": "ci39657848",
+    "updated": "2020-10-09T14:13:34.835Z",
+    "place": "16km NE of Little Lake, CA",
+    "lat": 36.0233333,
+    "long": -117.772,
+    "mag": 0.84,
+    "magType": "ml"
+}, {
+    "id": "pr2020283009",
+    "updated": "2020-10-09T14:25:20.738Z",
+    "place": "3 km SSW of Guánica, Puerto Rico",
+    "lat": 17.9451,
+    "long": -66.9205,
+    "mag": 2.46,
+    "magType": "md"
+}, {
+    "id": "ak020d09gmgv",
+    "updated": "2020-10-09T14:11:07.616Z",
+    "place": "78 km WNW of Paxson, Alaska",
+    "lat": 63.2381,
+    "long": -147.1398,
+    "mag": 2.7,
+    "magType": "ml"
+}, {
+    "id": "mb80467574",
+    "updated": "2020-10-09T14:19:30.730Z",
+    "place": "22 km WNW of Stanley, Idaho",
+    "lat": 44.3265,
+    "long": -115.1803333,
+    "mag": 2.31,
+    "magType": "ml"
+}, {
+    "id": "ak020d09fk5q",
+    "updated": "2020-10-09T14:04:46.719Z",
+    "place": "Southern Alaska",
+    "lat": 61.5749,
+    "long": -149.8613,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "hv72173006",
+    "updated": "2020-10-09T13:41:53.100Z",
+    "place": "22 km ESE of Honaunau-Napoopoo, Hawaii",
+    "lat": 19.4136657714844,
+    "long": -155.655838012695,
+    "mag": 1.84000003,
+    "magType": "md"
+}, {
+    "id": "nc73468711",
+    "updated": "2020-10-09T17:12:02.695Z",
+    "place": "31km SE of Bodie, CA",
+    "lat": 38.04,
+    "long": -118.7371667,
+    "mag": 1.94,
+    "magType": "md"
+}, {
+    "id": "nc73468701",
+    "updated": "2020-10-09T17:00:07.061Z",
+    "place": "11km E of Mammoth Lakes, CA",
+    "lat": 37.6555,
+    "long": -118.8583333,
+    "mag": 0.17,
+    "magType": "md"
+}, {
+    "id": "nc73468696",
+    "updated": "2020-10-09T15:46:59.040Z",
+    "place": "11km ENE of Mammoth Lakes, CA",
+    "lat": 37.6568333,
+    "long": -118.8596667,
+    "mag": -0.15,
+    "magType": "md"
+}, {
+    "id": "nc73468691",
+    "updated": "2020-10-09T14:12:05.930Z",
+    "place": "10km SE of Cloverdale, CA",
+    "lat": 38.7324982,
+    "long": -122.9499969,
+    "mag": 1.17,
+    "magType": "md"
+}, {
+    "id": "ak020d08xcij",
+    "updated": "2020-10-09T13:21:32.321Z",
+    "place": "70 km NNW of Huslia, Alaska",
+    "lat": 66.2287,
+    "long": -157.2425,
+    "mag": 1.9,
+    "magType": "ml"
+}, {
+    "id": "nn00777933",
+    "updated": "2020-10-09T13:35:36.753Z",
+    "place": "30 km SSE of Mina, Nevada",
+    "lat": 38.1515,
+    "long": -117.936,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "ci39657824",
+    "updated": "2020-10-09T13:03:22.124Z",
+    "place": "23km WNW of Searles Valley, CA",
+    "lat": 35.8263333,
+    "long": -117.6441667,
+    "mag": 1.18,
+    "magType": "ml"
+}, {
+    "id": "ak020d08khmf",
+    "updated": "2020-10-09T13:04:10.418Z",
+    "place": "71 km S of Shungnak, Alaska",
+    "lat": 66.2461,
+    "long": -157.2994,
+    "mag": 3.3,
+    "magType": "ml"
+}, {
+    "id": "ak020d08jle2",
+    "updated": "2020-10-09T12:56:09.250Z",
+    "place": "12 km W of Fishhook, Alaska",
+    "lat": 61.7458,
+    "long": -149.4647,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "ak020d08iylp",
+    "updated": "2020-10-09T12:54:28.949Z",
+    "place": "67 km ENE of Pedro Bay, Alaska",
+    "lat": 60.0328,
+    "long": -153.0106,
+    "mag": 2.3,
+    "magType": "ml"
+}, {
+    "id": "ak020d08iksg",
+    "updated": "2020-10-09T12:51:08.331Z",
+    "place": "6 km WSW of Big Lake, Alaska",
+    "lat": 61.4876,
+    "long": -150.0628,
+    "mag": 1.3,
+    "magType": "ml"
+}, {
+    "id": "nc73468681",
+    "updated": "2020-10-09T13:20:05.624Z",
+    "place": "7km WNW of The Geysers, CA",
+    "lat": 38.8103333,
+    "long": -122.8243332,
+    "mag": 0.86,
+    "magType": "md"
+}, {
+    "id": "ak020d08f3iq",
+    "updated": "2020-10-09T15:36:06.135Z",
+    "place": "40 km NNW of Glacier View, Alaska",
+    "lat": 62.166,
+    "long": -147.816,
+    "mag": 0.9,
+    "magType": "ml"
+}, {
+    "id": "ak020d08adl5",
+    "updated": "2020-10-09T12:13:54.504Z",
+    "place": "93 km ENE of Lime Village, Alaska",
+    "lat": 61.7906,
+    "long": -153.9212,
+    "mag": 1.5,
+    "magType": "ml"
+}, {
+    "id": "ci39657792",
+    "updated": "2020-10-09T13:00:36.090Z",
+    "place": "6km N of Moreno Valley, CA",
+    "lat": 33.9821667,
+    "long": -117.2365,
+    "mag": 1.24,
+    "magType": "ml"
+}, {
+    "id": "mb80467559",
+    "updated": "2020-10-09T13:59:45.810Z",
+    "place": "33 km NW of Stanley, Idaho",
+    "lat": 44.4556667,
+    "long": -115.1938333,
+    "mag": 2.16,
+    "magType": "ml"
+}, {
+    "id": "nn00777930",
+    "updated": "2020-10-09T12:48:55.689Z",
+    "place": "34 km SE of Mina, Nevada",
+    "lat": 38.1887,
+    "long": -117.812,
+    "mag": 1.2,
+    "magType": "ml"
+}, {
+    "id": "ci39657784",
+    "updated": "2020-10-09T12:59:59.238Z",
+    "place": "6km NE of Coso Junction, CA",
+    "lat": 36.0875,
+    "long": -117.9013333,
+    "mag": 0.81,
+    "magType": "ml"
+}, {
+    "id": "nc73468671",
+    "updated": "2020-10-09T12:30:06.364Z",
+    "place": "7km WNW of The Geysers, CA",
+    "lat": 38.8113327,
+    "long": -122.8231659,
+    "mag": 1.33,
+    "magType": "md"
+}, {
+    "id": "pr2020283008",
+    "updated": "2020-10-09T14:24:22.987Z",
+    "place": "46 km E of Saint Croix, U.S. Virgin Islands",
+    "lat": 17.652,
+    "long": -64.3165,
+    "mag": 3.5,
+    "magType": "md"
+}, {
+    "id": "nn00777926",
+    "updated": "2020-10-09T16:03:26.515Z",
+    "place": "27 km SSE of Mina, Nevada",
+    "lat": 38.1735,
+    "long": -117.9471,
+    "mag": 2.5,
+    "magType": "ml"
+}, {
+    "id": "hv72172901",
+    "updated": "2020-10-09T11:43:33.760Z",
+    "place": "29 km E of Honaunau-Napoopoo, Hawaii",
+    "lat": 19.4810009002686,
+    "long": -155.586837768555,
+    "mag": 1.9,
+    "magType": "ml"
+}, {
+    "id": "ci39657776",
+    "updated": "2020-10-09T11:38:10.538Z",
+    "place": "4km NE of Westmorland, CA",
+    "lat": 33.0648333,
+    "long": -115.59,
+    "mag": 1.26,
+    "magType": "ml"
+}, {
+    "id": "ak020d07ra33",
+    "updated": "2020-10-09T11:24:29.519Z",
+    "place": "252 km ESE of Chiniak, Alaska",
+    "lat": 56.8034,
+    "long": -148.3853,
+    "mag": 3.5,
+    "magType": "ml"
+}, {
+    "id": "nn00777922",
+    "updated": "2020-10-09T11:41:16.562Z",
+    "place": "34 km SE of Mina, Nevada",
+    "lat": 38.1765,
+    "long": -117.815,
+    "mag": 1.4,
+    "magType": "ml"
+}, {
+    "id": "ak020d07cqto",
+    "updated": "2020-10-09T10:57:16.766Z",
+    "place": "19 km NE of Pedro Bay, Alaska",
+    "lat": 59.9094,
+    "long": -153.8663,
+    "mag": 2.2,
+    "magType": "ml"
+}, {
+    "id": "ci39657768",
+    "updated": "2020-10-09T13:00:14.240Z",
+    "place": "12km WSW of Searles Valley, CA",
+    "lat": 35.7233333,
+    "long": -117.5275,
+    "mag": 0.86,
+    "magType": "ml"
+}, {
+    "id": "nm60311797",
+    "updated": "2020-10-09T13:01:36.170Z",
+    "place": "6 km SE of Ridgely, Tennessee",
+    "lat": 36.2225,
+    "long": -89.4378333,
+    "mag": 1.26,
+    "magType": "md"
+}, {
+    "id": "hv72172811",
+    "updated": "2020-10-09T10:19:58.520Z",
+    "place": "13 km S of Fern Forest, Hawaii",
+    "lat": 19.3400001525879,
+    "long": -155.137161254883,
+    "mag": 2.05,
+    "magType": "ml"
+}, {
+    "id": "nc73468656",
+    "updated": "2020-10-09T11:14:05.887Z",
+    "place": "8km W of Cobb, CA",
+    "lat": 38.8333321,
+    "long": -122.809166,
+    "mag": 0.56,
+    "magType": "md"
+}, {
+    "id": "nn00777921",
+    "updated": "2020-10-09T11:14:52.740Z",
+    "place": "9 km E of Mina, Nevada",
+    "lat": 38.3887,
+    "long": -118.002,
+    "mag": 1.1,
+    "magType": "ml"
+}, {
+    "id": "ak020d0734sq",
+    "updated": "2020-10-09T10:13:22.243Z",
+    "place": "63 km WNW of Anchor Point, Alaska",
+    "lat": 59.9882,
+    "long": -152.8903,
+    "mag": 2.2,
+    "magType": "ml"
+}, {
+    "id": "ak020d06rs02",
+    "updated": "2020-10-09T10:00:00.697Z",
+    "place": "52 km S of Denali National Park, Alaska",
+    "lat": 63.0762,
+    "long": -151.5686,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "ok2020tvzm",
+    "updated": "2020-10-09T16:54:15.711Z",
+    "place": "17 km SE of Waynoka, Oklahoma",
+    "lat": 36.483,
+    "long": -98.727,
+    "mag": 0.91,
+    "magType": "ml"
+}, {
+    "id": "ci39657760",
+    "updated": "2020-10-09T09:48:24.186Z",
+    "place": "4km ESE of Westmorland, CA",
+    "lat": 33.0211667,
+    "long": -115.5893333,
+    "mag": 1.31,
+    "magType": "ml"
+}, {
+    "id": "mb80467554",
+    "updated": "2020-10-09T13:29:46.600Z",
+    "place": "Western Montana",
+    "lat": 46.0958333,
+    "long": -111.664,
+    "mag": 2.02,
+    "magType": "ml"
+}, {
+    "id": "mb80467549",
+    "updated": "2020-10-09T13:35:32.360Z",
+    "place": "23 km NW of Stanley, Idaho",
+    "lat": 44.372,
+    "long": -115.131,
+    "mag": 2.03,
+    "magType": "ml"
+}, {
+    "id": "ci39657744",
+    "updated": "2020-10-09T09:50:24.302Z",
+    "place": "6km E of Calimesa, CA",
+    "lat": 33.996,
+    "long": -116.9848333,
+    "mag": 1.67,
+    "magType": "ml"
+}, {
+    "id": "ak020d06mtpp",
+    "updated": "2020-10-09T09:36:08.041Z",
+    "place": "88 km NW of Lake Minchumina, Alaska",
+    "lat": 64.5186,
+    "long": -153.4194,
+    "mag": 2,
+    "magType": "ml"
+}, {
+    "id": "pr2020283007",
+    "updated": "2020-10-09T09:34:03.397Z",
+    "place": "3 km SE of La Parguera, Puerto Rico",
+    "lat": 17.9508,
+    "long": -67.0191,
+    "mag": 2.5,
+    "magType": "md"
+}, {
+    "id": "ak020d06hgsl",
+    "updated": "2020-10-09T09:12:05.469Z",
+    "place": "26 km NNE of Petersville, Alaska",
+    "lat": 62.7257,
+    "long": -150.6322,
+    "mag": 1.9,
+    "magType": "ml"
+}, {
+    "id": "nn00777917",
+    "updated": "2020-10-09T10:11:55.152Z",
+    "place": "35 km SE of Mina, Nevada",
+    "lat": 38.1792,
+    "long": -117.8053,
+    "mag": 1.4,
+    "magType": "ml"
+}, {
+    "id": "nn00777916",
+    "updated": "2020-10-09T09:03:13.054Z",
+    "place": "29 km SE of Mina, Nevada",
+    "lat": 38.189,
+    "long": -117.8965,
+    "mag": 0.3,
+    "magType": "ml"
+}, {
+    "id": "us6000c701",
+    "updated": "2020-10-09T09:12:12.040Z",
+    "place": "34 km S of Andalgalá, Argentina",
+    "lat": -27.8873,
+    "long": -66.3767,
+    "mag": 5,
+    "magType": "mb"
+}, {
+    "id": "nc73468646",
+    "updated": "2020-10-09T10:28:04.564Z",
+    "place": "10km SE of Willits, CA",
+    "lat": 39.3596649,
+    "long": -123.2596664,
+    "mag": 1.31,
+    "magType": "md"
+}, {
+    "id": "nc73468636",
+    "updated": "2020-10-09T09:37:05.206Z",
+    "place": "2km ESE of The Geysers, CA",
+    "lat": 38.7696648,
+    "long": -122.7354965,
+    "mag": 0.65,
+    "magType": "md"
+}, {
+    "id": "nc73468631",
+    "updated": "2020-10-09T09:12:06.033Z",
+    "place": "2km ESE of The Geysers, CA",
+    "lat": 38.7731667,
+    "long": -122.7375031,
+    "mag": 0.77,
+    "magType": "md"
+}, {
+    "id": "nn00777914",
+    "updated": "2020-10-09T09:01:35.529Z",
+    "place": "29 km SE of Mina, Nevada",
+    "lat": 38.1757,
+    "long": -117.904,
+    "mag": 1.5,
+    "magType": "ml"
+}, {
+    "id": "nn00777912",
+    "updated": "2020-10-09T08:33:14.608Z",
+    "place": "34 km SE of Mina, Nevada",
+    "lat": 38.1657,
+    "long": -117.832,
+    "mag": 1.1,
+    "magType": "ml"
+}, {
+    "id": "ci39657736",
+    "updated": "2020-10-09T13:00:59.246Z",
+    "place": "22km ESE of Little Lake, CA",
+    "lat": 35.848,
+    "long": -117.682,
+    "mag": 1.01,
+    "magType": "ml"
+}, {
+    "id": "ci39657728",
+    "updated": "2020-10-09T13:13:18.311Z",
+    "place": "12km SW of Searles Valley, CA",
+    "lat": 35.7036667,
+    "long": -117.5056667,
+    "mag": 0.73,
+    "magType": "ml"
+}, {
+    "id": "mb80467544",
+    "updated": "2020-10-09T13:40:36.960Z",
+    "place": "19 km WNW of Stanley, Idaho",
+    "lat": 44.2805,
+    "long": -115.1686667,
+    "mag": 1.94,
+    "magType": "ml"
+}, {
+    "id": "mb80467534",
+    "updated": "2020-10-09T13:46:22.210Z",
+    "place": "20 km WNW of Stanley, Idaho",
+    "lat": 44.2738333,
+    "long": -115.1841667,
+    "mag": 2.18,
+    "magType": "ml"
+}, {
+    "id": "ci39657720",
+    "updated": "2020-10-09T08:04:01.460Z",
+    "place": "12km N of Banning, CA",
+    "lat": 34.0335,
+    "long": -116.8653333,
+    "mag": 0.6,
+    "magType": "ml"
+}, {
+    "id": "pr2020283006",
+    "updated": "2020-10-09T09:36:52.933Z",
+    "place": "4 km S of Guánica, Puerto Rico",
+    "lat": 17.9333,
+    "long": -66.911,
+    "mag": 2.72,
+    "magType": "md"
+}, {
+    "id": "se60311792",
+    "updated": "2020-10-09T12:36:45.570Z",
+    "place": "3 km SE of Sparta, North Carolina",
+    "lat": 36.4806667,
+    "long": -81.0958333,
+    "mag": -0.61,
+    "magType": "md"
+}, {
+    "id": "nn00777910",
+    "updated": "2020-10-09T08:30:13.625Z",
+    "place": "22 km N of Dyer, Nevada",
+    "lat": 37.87,
+    "long": -118.1058,
+    "mag": 0.5,
+    "magType": "ml"
+}, {
+    "id": "ak020d05k298",
+    "updated": "2020-10-09T07:54:07.595Z",
+    "place": "16 km NNW of Point Possession, Alaska",
+    "lat": 61.0533,
+    "long": -150.8326,
+    "mag": 1.5,
+    "magType": "ml"
+}, {
+    "id": "nn00777906",
+    "updated": "2020-10-09T07:52:13.729Z",
+    "place": "26 km SSE of Mina, Nevada",
+    "lat": 38.1673,
+    "long": -117.9935,
+    "mag": 1,
+    "magType": "ml"
+}, {
+    "id": "pr2020283005",
+    "updated": "2020-10-09T08:06:16.482Z",
+    "place": "7 km WSW of Guánica, Puerto Rico",
+    "lat": 17.9405,
+    "long": -66.9655,
+    "mag": 2.19,
+    "magType": "md"
+}, {
+    "id": "nn00777903",
+    "updated": "2020-10-09T16:28:30.374Z",
+    "place": "29 km SE of Mina, Nevada",
+    "lat": 38.174,
+    "long": -117.915,
+    "mag": 2.3,
+    "magType": "ml"
+}, {
+    "id": "nn00777901",
+    "updated": "2020-10-09T07:37:53.636Z",
+    "place": "28 km SE of Mina, Nevada",
+    "lat": 38.2058,
+    "long": -117.875,
+    "mag": 0.9,
+    "magType": "ml"
+}, {
+    "id": "nn00777898",
+    "updated": "2020-10-09T07:30:13.480Z",
+    "place": "27 km SSE of Mina, Nevada",
+    "lat": 38.1458,
+    "long": -118.0417,
+    "mag": 0.6,
+    "magType": "ml"
+}, {
+    "id": "ci39657712",
+    "updated": "2020-10-09T07:29:03.801Z",
+    "place": "19km E of Little Lake, CA",
+    "lat": 35.9205,
+    "long": -117.697,
+    "mag": 0.53,
+    "magType": "ml"
+}, {
+    "id": "pr2020283004",
+    "updated": "2020-10-09T07:51:25.313Z",
+    "place": "4 km SSW of Guánica, Puerto Rico",
+    "lat": 17.931,
+    "long": -66.9198,
+    "mag": 2.69,
+    "magType": "md"
+}, {
+    "id": "nc73468626",
+    "updated": "2020-10-09T08:09:06.631Z",
+    "place": "13km WNW of Covelo, CA",
+    "lat": 39.8279991,
+    "long": -123.3891678,
+    "mag": 2.35,
+    "magType": "md"
+}, {
+    "id": "pr2020283003",
+    "updated": "2020-10-09T07:45:07.810Z",
+    "place": "5 km S of Guánica, Puerto Rico",
+    "lat": 17.9245,
+    "long": -66.908,
+    "mag": 2.73,
+    "magType": "md"
+}, {
+    "id": "ci39657696",
+    "updated": "2020-10-09T13:14:03.480Z",
+    "place": "17km SE of Arvin, CA",
+    "lat": 35.0856667,
+    "long": -118.723,
+    "mag": 1.89,
+    "magType": "ml"
+}, {
+    "id": "ci39657688",
+    "updated": "2020-10-09T13:14:08.327Z",
+    "place": "14km W of Searles Valley, CA",
+    "lat": 35.7593333,
+    "long": -117.5526667,
+    "mag": 0.71,
+    "magType": "ml"
+}, {
+    "id": "hv72172686",
+    "updated": "2020-10-09T07:09:28.760Z",
+    "place": "4 km SSW of Pāhala, Hawaii",
+    "lat": 19.1628341674805,
+    "long": -155.489166259766,
+    "mag": 1.79999995,
+    "magType": "md"
+}, {
+    "id": "pr2020283002",
+    "updated": "2020-10-09T07:25:40.696Z",
+    "place": "3 km SSW of Guánica, Puerto Rico",
+    "lat": 17.937,
+    "long": -66.9166,
+    "mag": 2.88,
+    "magType": "md"
+}, {
+    "id": "nn00777895",
+    "updated": "2020-10-09T07:27:36.551Z",
+    "place": "29 km SSE of Mina, Nevada",
+    "lat": 38.1538,
+    "long": -117.9567,
+    "mag": 1.8,
+    "magType": "ml"
+}, {
+    "id": "nc73468616",
+    "updated": "2020-10-09T07:28:04.390Z",
+    "place": "6km NW of The Geysers, CA",
+    "lat": 38.8115005,
+    "long": -122.8148346,
+    "mag": 1.03,
+    "magType": "md"
+}, {
+    "id": "nc73468611",
+    "updated": "2020-10-09T07:17:05.333Z",
+    "place": "6km NW of The Geysers, CA",
+    "lat": 38.8131676,
+    "long": -122.8150024,
+    "mag": 0.65,
+    "magType": "md"
+}, {
+    "id": "nc73468601",
+    "updated": "2020-10-09T15:27:21.452Z",
+    "place": "7km WSW of Gilroy, CA",
+    "lat": 36.9830017,
+    "long": -121.6431656,
+    "mag": 2.26,
+    "magType": "md"
+}, {
+    "id": "ci39657680",
+    "updated": "2020-10-09T16:27:28.892Z",
+    "place": "2km E of Granada Hills, CA",
+    "lat": 34.2686667,
+    "long": -118.4813333,
+    "mag": 2.53,
+    "magType": "ml"
+}, {
+    "id": "ci39657672",
+    "updated": "2020-10-09T06:51:28.028Z",
+    "place": "21km ESE of Anza, CA",
+    "lat": 33.5106667,
+    "long": -116.4546667,
+    "mag": 0.72,
+    "magType": "ml"
+}, {
+    "id": "mb80467519",
+    "updated": "2020-10-09T14:05:27.740Z",
+    "place": "40 km NW of Stanley, Idaho",
+    "lat": 44.5088333,
+    "long": -115.2391667,
+    "mag": 2.18,
+    "magType": "ml"
+}, {
+    "id": "nc73468596",
+    "updated": "2020-10-09T07:09:07.281Z",
+    "place": "5km W of Cobb, CA",
+    "lat": 38.8213348,
+    "long": -122.7805023,
+    "mag": 0.74,
+    "magType": "md"
+}, {
+    "id": "nn00777893",
+    "updated": "2020-10-09T07:05:33.204Z",
+    "place": "29 km SE of Mina, Nevada",
+    "lat": 38.1708,
+    "long": -117.916,
+    "mag": 0.4,
+    "magType": "ml"
+}, {
+    "id": "ci39657664",
+    "updated": "2020-10-09T06:34:05.905Z",
+    "place": "7km W of Ojai, CA",
+    "lat": 34.4443333,
+    "long": -119.3186667,
+    "mag": 0.98,
+    "magType": "ml"
+}, {
+    "id": "us6000c6z8",
+    "updated": "2020-10-09T06:51:10.040Z",
+    "place": "4 km ESE of San Rafael Pie de la Cuesta, Guatemala",
+    "lat": 14.921,
+    "long": -91.8755,
+    "mag": 4.5,
+    "magType": "mb"
+}, {
+    "id": "ok2020tvsp",
+    "updated": "2020-10-09T16:49:55.861Z",
+    "place": "6 km W of Arcadia, Oklahoma",
+    "lat": 35.66283333,
+    "long": -97.39533333,
+    "mag": 1.3,
+    "magType": "ml"
+}, {
+    "id": "ak020d04s6h4",
+    "updated": "2020-10-09T06:23:58.264Z",
+    "place": "40 km SSE of Denali National Park, Alaska",
+    "lat": 63.205,
+    "long": -151.4296,
+    "mag": 1.5,
+    "magType": "ml"
+}, {
+    "id": "ci39657656",
+    "updated": "2020-10-09T13:15:53.200Z",
+    "place": "10km NNW of Rancho Cucamonga, CA",
+    "lat": 34.2051667,
+    "long": -117.627,
+    "mag": 1.08,
+    "magType": "ml"
+}, {
+    "id": "uu60413587",
+    "updated": "2020-10-09T15:16:54.280Z",
+    "place": "0 km N of Beaver, Utah",
+    "lat": 38.2838333,
+    "long": -112.64,
+    "mag": 1.37,
+    "magType": "md"
+}, {
+    "id": "ci39657648",
+    "updated": "2020-10-09T13:21:59.510Z",
+    "place": "14km S of Joshua Tree, CA",
+    "lat": 34.0103333,
+    "long": -116.3233333,
+    "mag": 0.98,
+    "magType": "ml"
+}, {
+    "id": "us6000c6z1",
+    "updated": "2020-10-09T15:43:19.817Z",
+    "place": "3 km SE of Lampa, Chile",
+    "lat": -33.3141,
+    "long": -70.8527,
+    "mag": 4.2,
+    "magType": "mb"
+}, {
+    "id": "us6000c6z4",
+    "updated": "2020-10-09T06:19:41.040Z",
+    "place": "22 km SSW of Singkil, Indonesia",
+    "lat": 2.1021,
+    "long": 97.7007,
+    "mag": 4.5,
+    "magType": "mb"
+}, {
+    "id": "ci39657640",
+    "updated": "2020-10-09T05:57:59.465Z",
+    "place": "10km ENE of Ridgecrest, CA",
+    "lat": 35.6436667,
+    "long": -117.5678333,
+    "mag": 0.49,
+    "magType": "ml"
+}, {
+    "id": "ci39657632",
+    "updated": "2020-10-09T07:07:42.739Z",
+    "place": "4km SSW of Pinon Hills, CA",
+    "lat": 34.4006667,
+    "long": -117.6728333,
+    "mag": 1.78,
+    "magType": "ml"
+}, {
+    "id": "ak020d04c23m",
+    "updated": "2020-10-09T05:52:30.040Z",
+    "place": "56 km SSE of Denali National Park, Alaska",
+    "lat": 63.0487,
+    "long": -151.4974,
+    "mag": 2.9,
+    "magType": "ml"
+}, {
+    "id": "ak020d04blkg",
+    "updated": "2020-10-09T05:46:33.940Z",
+    "place": "75 km ESE of Denali National Park, Alaska",
+    "lat": 63.1986,
+    "long": -150.4269,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "ci39657624",
+    "updated": "2020-10-09T05:42:32.585Z",
+    "place": "6km SSW of Pearblossom, CA",
+    "lat": 34.4565,
+    "long": -117.9238333,
+    "mag": 0.96,
+    "magType": "ml"
+}, {
+    "id": "ak020d04akxs",
+    "updated": "2020-10-09T05:41:53.377Z",
+    "place": "53 km NW of Skwentna, Alaska",
+    "lat": 62.3703,
+    "long": -152.0202,
+    "mag": 1.3,
+    "magType": "ml"
+}, {
+    "id": "uu60413582",
+    "updated": "2020-10-09T15:31:52.440Z",
+    "place": "2 km S of Joseph, Utah",
+    "lat": 38.6066667,
+    "long": -112.2133333,
+    "mag": 1.24,
+    "magType": "ml"
+}, {
+    "id": "nc73468591",
+    "updated": "2020-10-09T16:11:04.714Z",
+    "place": "12km WNW of Round Valley, CA",
+    "lat": 37.4403333,
+    "long": -118.7298333,
+    "mag": 0.98,
+    "magType": "md"
+}, {
+    "id": "hv72172566",
+    "updated": "2020-10-09T05:30:14.220Z",
+    "place": "Island of Hawaii, Hawaii",
+    "lat": 19.158332824707,
+    "long": -155.496826171875,
+    "mag": 2.25,
+    "magType": "md"
+}, {
+    "id": "hv72172556",
+    "updated": "2020-10-09T05:29:34.170Z",
+    "place": "6 km SSW of Pāhala, Hawaii",
+    "lat": 19.1456661224365,
+    "long": -155.491165161133,
+    "mag": 1.89999998,
+    "magType": "md"
+}, {
+    "id": "ok2020tvqp",
+    "updated": "2020-10-09T16:29:51.172Z",
+    "place": "4 km W of Prague, Oklahoma",
+    "lat": 35.4905,
+    "long": -96.73766667,
+    "mag": 1.06,
+    "magType": "ml"
+}, {
+    "id": "nn00777889",
+    "updated": "2020-10-09T16:50:13.494Z",
+    "place": "30 km SE of Mina, Nevada",
+    "lat": 38.1761,
+    "long": -117.8829,
+    "mag": 2,
+    "magType": "ml"
+}, {
+    "id": "ak020d046zvl",
+    "updated": "2020-10-09T06:33:49.622Z",
+    "place": "40 km NE of Whittier, Alaska",
+    "lat": 61.0691,
+    "long": -148.2586,
+    "mag": 1.8,
+    "magType": "ml"
+}, {
+    "id": "nn00777886",
+    "updated": "2020-10-09T05:24:33.246Z",
+    "place": "29 km S of Mina, Nevada",
+    "lat": 38.1252,
+    "long": -118.0588,
+    "mag": 0.7,
+    "magType": "ml"
+}, {
+    "id": "ci39657616",
+    "updated": "2020-10-09T05:20:48.446Z",
+    "place": "11km SSW of Borrego Springs, CA",
+    "lat": 33.173,
+    "long": -116.434,
+    "mag": 0.71,
+    "magType": "ml"
+}, {
+    "id": "ci39657608",
+    "updated": "2020-10-09T05:18:43.177Z",
+    "place": "21km E of Julian, CA",
+    "lat": 33.0445,
+    "long": -116.3836667,
+    "mag": 0.92,
+    "magType": "ml"
+}, {
+    "id": "ci39657600",
+    "updated": "2020-10-09T13:22:02.716Z",
+    "place": "23km NW of Searles Valley, CA",
+    "lat": 35.885,
+    "long": -117.6136667,
+    "mag": 0.44,
+    "magType": "ml"
+}, {
+    "id": "nc73468581",
+    "updated": "2020-10-09T06:08:06.833Z",
+    "place": "7km NW of The Geysers, CA",
+    "lat": 38.8243332,
+    "long": -122.805336,
+    "mag": 0.55,
+    "magType": "md"
+}, {
+    "id": "us6000c6yk",
+    "updated": "2020-10-09T05:19:05.040Z",
+    "place": "237 km E of Levuka, Fiji",
+    "lat": -18.0278,
+    "long": -178.4405,
+    "mag": 4.3,
+    "magType": "mb"
+}, {
+    "id": "nc73468576",
+    "updated": "2020-10-09T05:43:04.679Z",
+    "place": "9km NNE of Pinnacles, CA",
+    "lat": 36.6083336,
+    "long": -121.1169968,
+    "mag": 1.71,
+    "magType": "md"
+}, {
+    "id": "nn00777884",
+    "updated": "2020-10-09T05:22:12.633Z",
+    "place": "38 km SE of Mina, Nevada",
+    "lat": 38.1788,
+    "long": -117.758,
+    "mag": 0.8,
+    "magType": "ml"
+}, {
+    "id": "nc73468571",
+    "updated": "2020-10-09T16:01:05.649Z",
+    "place": "8km NNE of Mineral, CA",
+    "lat": 40.421,
+    "long": -121.5311667,
+    "mag": 0.11,
+    "magType": "md"
+}, {
+    "id": "ak020d03o58o",
+    "updated": "2020-10-09T04:51:38.040Z",
+    "place": "101 km S of Kaktovik, Alaska",
+    "lat": 69.2252,
+    "long": -143.7802,
+    "mag": 2.6,
+    "magType": "ml"
+}, {
+    "id": "us6000c6ya",
+    "updated": "2020-10-09T15:32:36.010Z",
+    "place": "58 km NNE of Nicola Town, Saint Kitts and Nevis",
+    "lat": 17.8389,
+    "long": -62.4897,
+    "mag": 4.6,
+    "magType": "mb"
+}, {
+    "id": "us6000c6y9",
+    "updated": "2020-10-09T15:05:32.654Z",
+    "place": "119 km ESE of Iquique, Chile",
+    "lat": -20.7247,
+    "long": -69.1395,
+    "mag": 4.3,
+    "magType": "mb"
+}, {
+    "id": "nn00777881",
+    "updated": "2020-10-09T04:30:33.007Z",
+    "place": "37 km SE of Mina, Nevada",
+    "lat": 38.138,
+    "long": -117.8208,
+    "mag": 1,
+    "magType": "ml"
+}, {
+    "id": "ak020d03i1of",
+    "updated": "2020-10-09T04:43:16.040Z",
+    "place": "84 km S of Kaktovik, Alaska",
+    "lat": 69.3726,
+    "long": -143.8006,
+    "mag": 2.9,
+    "magType": "ml"
+}, {
+    "id": "ak020d0377dg",
+    "updated": "2020-10-09T04:02:03.286Z",
+    "place": "6 km WNW of Four Mile Road, Alaska",
+    "lat": 64.6292,
+    "long": -149.2432,
+    "mag": 1.2,
+    "magType": "ml"
+}, {
+    "id": "nc73468566",
+    "updated": "2020-10-09T16:43:37.392Z",
+    "place": "14km SW of Toms Place, CA",
+    "lat": 37.4805,
+    "long": -118.8076667,
+    "mag": 1.56,
+    "magType": "md"
+}, {
+    "id": "us6000c6y3",
+    "updated": "2020-10-09T03:51:03.040Z",
+    "place": "55 km SSW of Whites City, New Mexico",
+    "lat": 31.704,
+    "long": -104.5678,
+    "mag": 3.1,
+    "magType": "ml"
+}, {
+    "id": "us6000c6xp",
+    "updated": "2020-10-09T03:44:00.040Z",
+    "place": "55 km SSW of Whites City, New Mexico",
+    "lat": 31.7094,
+    "long": -104.583,
+    "mag": 3,
+    "magType": "ml"
+}, {
+    "id": "pr2020283001",
+    "updated": "2020-10-09T04:13:48.448Z",
+    "place": "5 km S of Guánica, Puerto Rico",
+    "lat": 17.9261,
+    "long": -66.9153,
+    "mag": 2.35,
+    "magType": "md"
+}, {
+    "id": "nn00777873",
+    "updated": "2020-10-09T03:47:14.107Z",
+    "place": "27 km SSE of Mina, Nevada",
+    "lat": 38.1523,
+    "long": -118.0263,
+    "mag": 1.2,
+    "magType": "ml"
+}, {
+    "id": "ak020d031lg8",
+    "updated": "2020-10-09T03:33:21.627Z",
+    "place": "6 km NNE of Fox, Alaska",
+    "lat": 65.0139,
+    "long": -147.5841,
+    "mag": 0.9,
+    "magType": "ml"
+}, {
+    "id": "ci39657576",
+    "updated": "2020-10-09T17:11:31.116Z",
+    "place": "10km NNW of Anza, CA",
+    "lat": 33.6425,
+    "long": -116.6986667,
+    "mag": 0.62,
+    "magType": "ml"
+}, {
+    "id": "ci39657568",
+    "updated": "2020-10-09T16:51:22.214Z",
+    "place": "3km SW of San Bernardino, CA",
+    "lat": 34.1143333,
+    "long": -117.3201667,
+    "mag": 1.01,
+    "magType": "ml"
+}, {
+    "id": "mb80467509",
+    "updated": "2020-10-09T13:53:01.220Z",
+    "place": "27 km NW of Stanley, Idaho",
+    "lat": 44.373,
+    "long": -115.2108333,
+    "mag": 2.65,
+    "magType": "ml"
+}, {
+    "id": "ci39657560",
+    "updated": "2020-10-09T16:43:20.740Z",
+    "place": "13km WNW of Anza, CA",
+    "lat": 33.593,
+    "long": -116.8085,
+    "mag": 0.45,
+    "magType": "ml"
+}, {
+    "id": "us6000c6xe",
+    "updated": "2020-10-09T03:15:20.040Z",
+    "place": "122 km S of Katabu, Indonesia",
+    "lat": -6.0392,
+    "long": 122.5974,
+    "mag": 5.2,
+    "magType": "mww"
+}, {
+    "id": "nc73468546",
+    "updated": "2020-10-09T04:25:05.229Z",
+    "place": "10km NW of Pinnacles, CA",
+    "lat": 36.6073341,
+    "long": -121.2101669,
+    "mag": 1.48,
+    "magType": "md"
+}, {
+    "id": "ci39657552",
+    "updated": "2020-10-09T16:38:15.810Z",
+    "place": "22km E of Coso Junction, CA",
+    "lat": 36.0493333,
+    "long": -117.7005,
+    "mag": 1.37,
+    "magType": "ml"
+}, {
+    "id": "ci39657544",
+    "updated": "2020-10-09T16:33:09.895Z",
+    "place": "24km ESE of Little Lake, CA",
+    "lat": 35.8615,
+    "long": -117.6605,
+    "mag": 0.67,
+    "magType": "ml"
+}, {
+    "id": "ak020d02i9y2",
+    "updated": "2020-10-09T03:28:50.040Z",
+    "place": "58 km SE of Pope-Vannoy Landing, Alaska",
+    "lat": 59.226,
+    "long": -153.6961,
+    "mag": 2.5,
+    "magType": "ml"
+}, {
+    "id": "ak020d02i9qi",
+    "updated": "2020-10-09T06:33:49.502Z",
+    "place": "81 km NW of Karluk, Alaska",
+    "lat": 58.0852,
+    "long": -155.4327,
+    "mag": 2.1,
+    "magType": "ml"
+}, {
+    "id": "ci39657536",
+    "updated": "2020-10-09T13:22:50.284Z",
+    "place": "13km SW of Searles Valley, CA",
+    "lat": 35.6911667,
+    "long": -117.5178333,
+    "mag": 1.03,
+    "magType": "ml"
+}, {
+    "id": "ci39657528",
+    "updated": "2020-10-09T16:27:47.864Z",
+    "place": "5km SE of Westmorland, CA",
+    "lat": 33.012,
+    "long": -115.5796667,
+    "mag": 1.47,
+    "magType": "ml"
+}, {
+    "id": "uu60413577",
+    "updated": "2020-10-09T15:02:00.120Z",
+    "place": "14 km SE of Kanarraville, Utah",
+    "lat": 37.4311667,
+    "long": -113.0928333,
+    "mag": 1.14,
+    "magType": "md"
+}, {
+    "id": "ci39657520",
+    "updated": "2020-10-09T16:18:14.803Z",
+    "place": "6km SE of Lake Henshaw, CA",
+    "lat": 33.1988333,
+    "long": -116.7276667,
+    "mag": 0.59,
+    "magType": "ml"
+}, {
+    "id": "ak020d02c0z9",
+    "updated": "2020-10-09T06:25:38.504Z",
+    "place": "93 km NNW of Aleneva, Alaska",
+    "lat": 58.7813,
+    "long": -153.715,
+    "mag": 1.2,
+    "magType": "ml"
+}, {
+    "id": "ci39657512",
+    "updated": "2020-10-09T13:23:08.267Z",
+    "place": "14km WSW of Searles Valley, CA",
+    "lat": 35.7333333,
+    "long": -117.5556667,
+    "mag": 0.62,
+    "magType": "ml"
+}, {
+    "id": "ak020d01x4vb",
+    "updated": "2020-10-09T01:44:26.474Z",
+    "place": "34 km W of Livengood, Alaska",
+    "lat": 65.5024,
+    "long": -149.2904,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "nc73468531",
+    "updated": "2020-10-09T01:49:05.281Z",
+    "place": "4km W of Cobb, CA",
+    "lat": 38.8261681,
+    "long": -122.7641678,
+    "mag": 0.53,
+    "magType": "md"
+}, {
+    "id": "ci39657504",
+    "updated": "2020-10-09T01:50:52.562Z",
+    "place": "5km SE of Westmorland, CA",
+    "lat": 33.0093333,
+    "long": -115.58,
+    "mag": 1.25,
+    "magType": "ml"
+}, {
+    "id": "ci39657488",
+    "updated": "2020-10-09T14:03:16.420Z",
+    "place": "4km ESE of Westmorland, CA",
+    "lat": 33.0236667,
+    "long": -115.583,
+    "mag": 2.89,
+    "magType": "ml"
+}, {
+    "id": "ak020d01tmmq",
+    "updated": "2020-10-09T01:26:04.620Z",
+    "place": "12 km WSW of Nenana, Alaska",
+    "lat": 64.5122,
+    "long": -149.3292,
+    "mag": 1.4,
+    "magType": "ml"
+}, {
+    "id": "pr2020283000",
+    "updated": "2020-10-09T12:51:22.911Z",
+    "place": "85 km ENE of Saint Croix, U.S. Virgin Islands",
+    "lat": 17.994,
+    "long": -63.9913,
+    "mag": 4.5,
+    "magType": "md"
+}, {
+    "id": "ok2020tvil",
+    "updated": "2020-10-09T16:19:34.341Z",
+    "place": "10 km ENE of Orlando, Oklahoma",
+    "lat": 36.1825,
+    "long": -97.26383333,
+    "mag": 1.56,
+    "magType": "ml"
+}, {
+    "id": "ci39657480",
+    "updated": "2020-10-09T01:45:54.251Z",
+    "place": "30km N of Searles Valley, CA",
+    "lat": 36.0388333,
+    "long": -117.3933333,
+    "mag": 0.45,
+    "magType": "ml"
+}, {
+    "id": "nc73468521",
+    "updated": "2020-10-09T16:09:07.703Z",
+    "place": "5km ESE of Mammoth Lakes, CA",
+    "lat": 37.6208333,
+    "long": -118.9308333,
+    "mag": 0.41,
+    "magType": "md"
+}, {
+    "id": "nc73468516",
+    "updated": "2020-10-09T16:33:35.798Z",
+    "place": "5km E of Mammoth Lakes, CA",
+    "lat": 37.6363333,
+    "long": -118.926,
+    "mag": 1.14,
+    "magType": "md"
+}, {
+    "id": "hv72172311",
+    "updated": "2020-10-09T01:02:53.430Z",
+    "place": "2 km SE of Pāhala, Hawaii",
+    "lat": 19.1881675720215,
+    "long": -155.462005615234,
+    "mag": 1.70000005,
+    "magType": "md"
+}, {
+    "id": "hv72172306",
+    "updated": "2020-10-09T01:36:10.200Z",
+    "place": "3 km SSE of Pāhala, Hawaii",
+    "lat": 19.174,
+    "long": -155.469666666667,
+    "mag": 1.71,
+    "magType": "md"
+}, {
+    "id": "ci39657472",
+    "updated": "2020-10-09T16:09:27.529Z",
+    "place": "18km ENE of Little Lake, CA",
+    "lat": 35.9733333,
+    "long": -117.708,
+    "mag": 0.59,
+    "magType": "ml"
+}, {
+    "id": "nc73468511",
+    "updated": "2020-10-09T14:43:42.735Z",
+    "place": "4km NNW of Pinnacles, CA",
+    "lat": 36.5626678,
+    "long": -121.159668,
+    "mag": 2.5,
+    "magType": "md"
+}, {
+    "id": "nc73468506",
+    "updated": "2020-10-09T02:53:03.671Z",
+    "place": "4km NNW of Pinnacles, CA",
+    "lat": 36.5686684,
+    "long": -121.1591644,
+    "mag": 1.9,
+    "magType": "md"
+}, {
+    "id": "ci39657432",
+    "updated": "2020-10-09T16:02:54.873Z",
+    "place": "7km SW of Idyllwild, CA",
+    "lat": 33.685,
+    "long": -116.7638333,
+    "mag": 0.5,
+    "magType": "ml"
+}, {
+    "id": "ak020d013ojk",
+    "updated": "2020-10-09T00:06:47.077Z",
+    "place": "52 km SW of Tatitlek, Alaska",
+    "lat": 60.5476,
+    "long": -147.3984,
+    "mag": 2,
+    "magType": "ml"
+}, {
+    "id": "mb80467499",
+    "updated": "2020-10-09T14:14:24.720Z",
+    "place": "24 km NW of Stanley, Idaho",
+    "lat": 44.3651667,
+    "long": -115.1731667,
+    "mag": 2.64,
+    "magType": "ml"
+}, {
+    "id": "ci39657416",
+    "updated": "2020-10-09T16:47:38.966Z",
+    "place": "42km WSW of Tecopa, CA",
+    "lat": 35.6796667,
+    "long": -116.6381667,
+    "mag": 1.76,
+    "magType": "ml"
+}, {
+    "id": "ci39657408",
+    "updated": "2020-10-08T23:53:03.853Z",
+    "place": "18km E of Little Lake, CA",
+    "lat": 35.9183333,
+    "long": -117.702,
+    "mag": 0.91,
+    "magType": "ml"
+}, {
+    "id": "nn00777864",
+    "updated": "2020-10-08T23:56:04.874Z",
+    "place": "32 km SE of Mina, Nevada",
+    "lat": 38.1672,
+    "long": -117.8608,
+    "mag": 1.1,
+    "magType": "ml"
+}, {
+    "id": "nc73468501",
+    "updated": "2020-10-09T17:06:05.098Z",
+    "place": "16km WSW of Toms Place, CA",
+    "lat": 37.4983333,
+    "long": -118.843,
+    "mag": 1.22,
+    "magType": "md"
+}, {
+    "id": "nn00777861",
+    "updated": "2020-10-08T23:46:26.028Z",
+    "place": "39 km ESE of Mina, Nevada",
+    "lat": 38.2047,
+    "long": -117.7222,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "pr2020282023",
+    "updated": "2020-10-09T00:09:30.040Z",
+    "place": "5 km S of Guánica, Puerto Rico",
+    "lat": 17.9223,
+    "long": -66.9063,
+    "mag": 2.96,
+    "magType": "md"
+}, {
+    "id": "nn00777860",
+    "updated": "2020-10-08T23:40:22.558Z",
+    "place": "31 km SSE of Goldfield, Nevada",
+    "lat": 37.4425,
+    "long": -117.1185,
+    "mag": 1.3,
+    "magType": "ml"
+}, {
+    "id": "pr2020282022",
+    "updated": "2020-10-09T00:01:53.566Z",
+    "place": "8 km SSW of Guánica, Puerto Rico",
+    "lat": 17.9038,
+    "long": -66.9361,
+    "mag": 2.6,
+    "magType": "md"
+}, {
+    "id": "ak020cyre9mt",
+    "updated": "2020-10-08T23:30:13.396Z",
+    "place": "4 km SE of Ninilchik, Alaska",
+    "lat": 60.023,
+    "long": -151.5988,
+    "mag": 1.8,
+    "magType": "ml"
+}, {
+    "id": "nn00777857",
+    "updated": "2020-10-09T02:24:48.082Z",
+    "place": "32 km SE of Mina, Nevada",
+    "lat": 38.1723,
+    "long": -117.8676,
+    "mag": 2,
+    "magType": "ml"
+}, {
+    "id": "us6000c6w6",
+    "updated": "2020-10-09T08:25:33.104Z",
+    "place": "47 km E of Kainantu, Papua New Guinea",
+    "lat": -6.2472,
+    "long": 146.2885,
+    "mag": 5.1,
+    "magType": "mb"
+}, {
+    "id": "hv72172241",
+    "updated": "2020-10-08T23:17:50.520Z",
+    "place": "5 km SSE of Pāhala, Hawaii",
+    "lat": 19.154333114624,
+    "long": -155.467834472656,
+    "mag": 1.85000002,
+    "magType": "md"
+}, {
+    "id": "hv72172236",
+    "updated": "2020-10-08T23:11:36.880Z",
+    "place": "21 km SE of Pāhala, Hawaii",
+    "lat": 19.0588340759277,
+    "long": -155.339172363281,
+    "mag": 1.84000003,
+    "magType": "md"
+}, {
+    "id": "pr2020282024",
+    "updated": "2020-10-09T00:57:52.752Z",
+    "place": "3 km S of Guánica, Puerto Rico",
+    "lat": 17.9366,
+    "long": -66.911,
+    "mag": 2.83,
+    "magType": "md"
+}, {
+    "id": "nn00777855",
+    "updated": "2020-10-08T23:26:03.119Z",
+    "place": "23 km WSW of Sandy Valley, Nevada",
+    "lat": 35.7218,
+    "long": -115.8627,
+    "mag": 1.6,
+    "magType": "ml"
+}, {
+    "id": "ci39657320",
+    "updated": "2020-10-09T16:51:46.994Z",
+    "place": "90km ESE of Maneadero, B.C., MX",
+    "lat": 31.5168333,
+    "long": -115.6445,
+    "mag": 2.61,
+    "magType": "ml"
+}, {
+    "id": "nc73468496",
+    "updated": "2020-10-08T22:58:50.949Z",
+    "place": "3km E of The Geysers, CA",
+    "lat": 38.7816658,
+    "long": -122.7253342,
+    "mag": 0.71,
+    "magType": "md"
+}, {
+    "id": "nc73468491",
+    "updated": "2020-10-09T15:44:05.515Z",
+    "place": "10km ENE of Mammoth Lakes, CA",
+    "lat": 37.659,
+    "long": -118.869,
+    "mag": 0.26,
+    "magType": "md"
+}, {
+    "id": "ci39657304",
+    "updated": "2020-10-09T16:54:57.950Z",
+    "place": "21km ESE of Little Lake, CA",
+    "lat": 35.875,
+    "long": -117.689,
+    "mag": 0.33,
+    "magType": "ml"
+}, {
+    "id": "ci39657296",
+    "updated": "2020-10-09T17:09:15.105Z",
+    "place": "8km ESE of Ridgecrest, CA",
+    "lat": 35.602,
+    "long": -117.5843333,
+    "mag": 0.24,
+    "magType": "ml"
+}, {
+    "id": "ci39657280",
+    "updated": "2020-10-09T14:30:48.600Z",
+    "place": "2km WNW of Estacion Coahuila, B.C., MX",
+    "lat": 32.2016667,
+    "long": -115.021,
+    "mag": 2.76,
+    "magType": "ml"
+}, {
+    "id": "ci37457581",
+    "updated": "2020-10-09T14:36:28.074Z",
+    "place": "0km N of Brawley, CA",
+    "lat": 32.9828333,
+    "long": -115.5298333,
+    "mag": 1.2,
+    "magType": "ml"
+}, {
+    "id": "ci39657224",
+    "updated": "2020-10-08T22:24:46.829Z",
+    "place": "7km SSE of Loma Linda, CA",
+    "lat": 33.9911667,
+    "long": -117.2381667,
+    "mag": 0.88,
+    "magType": "ml"
+}, {
+    "id": "nc73468481",
+    "updated": "2020-10-08T22:39:06.896Z",
+    "place": "2km ESE of The Geysers, CA",
+    "lat": 38.7716675,
+    "long": -122.7350006,
+    "mag": 0.41,
+    "magType": "md"
+}, {
+    "id": "pr2020282020",
+    "updated": "2020-10-09T06:20:35.391Z",
+    "place": "14 km SSE of Guánica, Puerto Rico",
+    "lat": 17.8513,
+    "long": -66.8595,
+    "mag": 2.67,
+    "magType": "md"
+}, {
+    "id": "ak020cyqr48b",
+    "updated": "2020-10-08T22:20:21.539Z",
+    "place": "Central Alaska",
+    "lat": 63.4246,
+    "long": -151.2276,
+    "mag": 1.4,
+    "magType": "ml"
+}, {
+    "id": "ci39657200",
+    "updated": "2020-10-08T23:51:20.731Z",
+    "place": "8km NNW of Anza, CA",
+    "lat": 33.6153333,
+    "long": -116.7131667,
+    "mag": 0.74,
+    "magType": "ml"
+}, {
+    "id": "ci39657208",
+    "updated": "2020-10-09T17:04:17.172Z",
+    "place": "8km NNW of Anza, CA",
+    "lat": 33.616,
+    "long": -116.7131667,
+    "mag": 0.44,
+    "magType": "ml"
+}, {
+    "id": "ok2020tvcb",
+    "updated": "2020-10-08T22:43:20.431Z",
+    "place": "9 km NW of Perry, Oklahoma",
+    "lat": 36.35466667,
+    "long": -97.36316667,
+    "mag": 1.82,
+    "magType": "ml"
+}, {
+    "id": "us6000c6vs",
+    "updated": "2020-10-08T22:14:47.040Z",
+    "place": "38 km W of Mentone, Texas",
+    "lat": 31.641,
+    "long": -103.9986,
+    "mag": 2.5,
+    "magType": "ml"
+}, {
+    "id": "ci39657168",
+    "updated": "2020-10-08T22:03:38.682Z",
+    "place": "9km SW of Anza, CA",
+    "lat": 33.5088333,
+    "long": -116.7505,
+    "mag": 0.67,
+    "magType": "ml"
+}, {
+    "id": "ci39657160",
+    "updated": "2020-10-08T23:40:12.538Z",
+    "place": "16km WSW of Niland, CA",
+    "lat": 33.194,
+    "long": -115.6835,
+    "mag": 2.05,
+    "magType": "ml"
+}, {
+    "id": "ci37457573",
+    "updated": "2020-10-09T01:06:32.933Z",
+    "place": "27km SE of Ocotillo Wells, CA",
+    "lat": 32.9878333,
+    "long": -115.9133333,
+    "mag": 0.9,
+    "magType": "ml"
+}, {
+    "id": "ci39657152",
+    "updated": "2020-10-09T00:35:32.130Z",
+    "place": "10km WNW of Calipatria, CA",
+    "lat": 33.1526667,
+    "long": -115.6178333,
+    "mag": 1.46,
+    "magType": "ml"
+}, {
+    "id": "ci39657128",
+    "updated": "2020-10-08T21:52:50.015Z",
+    "place": "31km N of Searles Valley, CA",
+    "lat": 36.0456667,
+    "long": -117.4101667,
+    "mag": 1.07,
+    "magType": "ml"
+}, {
+    "id": "mb80467474",
+    "updated": "2020-10-08T23:08:38.340Z",
+    "place": "6 km NNW of Logan, Montana",
+    "lat": 45.93,
+    "long": -111.4706667,
+    "mag": 1.34,
+    "magType": "ml"
+}, {
+    "id": "ci39657104",
+    "updated": "2020-10-09T01:42:20.040Z",
+    "place": "13km WNW of Anza, CA",
+    "lat": 33.599,
+    "long": -116.8061667,
+    "mag": 0.23,
+    "magType": "ml"
+}, {
+    "id": "ci39657096",
+    "updated": "2020-10-09T13:24:56.885Z",
+    "place": "13km WNW of Anza, CA",
+    "lat": 33.5943333,
+    "long": -116.8108333,
+    "mag": 0.77,
+    "magType": "ml"
+}, {
+    "id": "ci39657088",
+    "updated": "2020-10-09T01:36:01.934Z",
+    "place": "8km WSW of Idyllwild, CA",
+    "lat": 33.703,
+    "long": -116.7978333,
+    "mag": 0.52,
+    "magType": "ml"
+}, {
+    "id": "ci39657080",
+    "updated": "2020-10-09T13:25:31.641Z",
+    "place": "7km WSW of Idyllwild, CA",
+    "lat": 33.7135,
+    "long": -116.7881667,
+    "mag": 0.87,
+    "magType": "ml"
+}, {
+    "id": "nc73468476",
+    "updated": "2020-10-08T21:57:06.617Z",
+    "place": "9km WNW of Cobb, CA",
+    "lat": 38.8396683,
+    "long": -122.8266678,
+    "mag": 0.57,
+    "magType": "md"
+}, {
+    "id": "ak020cyq65rx",
+    "updated": "2020-10-08T21:24:36.331Z",
+    "place": "87 km NW of Aleneva, Alaska",
+    "lat": 58.7154,
+    "long": -153.7427,
+    "mag": 1.9,
+    "magType": "ml"
+}, {
+    "id": "ak020cyq53lx",
+    "updated": "2020-10-08T21:41:18.040Z",
+    "place": "37 km WSW of Elfin Cove, Alaska",
+    "lat": 58.0233,
+    "long": -136.8914,
+    "mag": 2.3,
+    "magType": "ml"
+}, {
+    "id": "ak020cyq4z9n",
+    "updated": "2020-10-08T21:17:55.008Z",
+    "place": "8 km SSW of Big Lake, Alaska",
+    "lat": 61.4497,
+    "long": -150.0027,
+    "mag": 1.2,
+    "magType": "ml"
+}, {
+    "id": "ak020cyq4f7t",
+    "updated": "2020-10-08T21:19:35.389Z",
+    "place": "101 km S of Kaktovik, Alaska",
+    "lat": 69.2191,
+    "long": -143.571,
+    "mag": 2.1,
+    "magType": "ml"
+}, {
+    "id": "ci39657056",
+    "updated": "2020-10-09T13:25:57.644Z",
+    "place": "15km SW of Searles Valley, CA",
+    "lat": 35.6631667,
+    "long": -117.5021667,
+    "mag": 1.16,
+    "magType": "ml"
+}, {
+    "id": "nc73468471",
+    "updated": "2020-10-08T21:46:04.541Z",
+    "place": "6km E of Redway, CA",
+    "lat": 40.1134987,
+    "long": -123.7528305,
+    "mag": 1.64,
+    "magType": "md"
+}, {
+    "id": "pr2020282019",
+    "updated": "2020-10-08T21:59:16.040Z",
+    "place": "162 km N of Cruz Bay, U.S. Virgin Islands",
+    "lat": 19.7933,
+    "long": -64.6588,
+    "mag": 3.77,
+    "magType": "md"
+}, {
+    "id": "ci39657032",
+    "updated": "2020-10-08T21:04:29.170Z",
+    "place": "13km WNW of Anza, CA",
+    "lat": 33.594,
+    "long": -116.8063333,
+    "mag": 0.34,
+    "magType": "ml"
+}, {
+    "id": "ak020cyps7r3",
+    "updated": "2020-10-08T20:59:03.019Z",
+    "place": "147 km E of McCarthy, Alaska",
+    "lat": 61.2192,
+    "long": -140.1964,
+    "mag": 1.8,
+    "magType": "ml"
+}, {
+    "id": "ci39657024",
+    "updated": "2020-10-08T21:04:41.160Z",
+    "place": "10km NE of Ocotillo Wells, CA",
+    "lat": 33.2115,
+    "long": -116.0623333,
+    "mag": 1.97,
+    "magType": "ml"
+}, {
+    "id": "ak020cypprsj",
+    "updated": "2020-10-08T20:49:11.895Z",
+    "place": "7 km S of Big Lake, Alaska",
+    "lat": 61.4554,
+    "long": -149.9724,
+    "mag": 1.4,
+    "magType": "ml"
+}, {
+    "id": "nc73468456",
+    "updated": "2020-10-08T20:26:29.439Z",
+    "place": "4km WNW of Cobb, CA",
+    "lat": 38.840168,
+    "long": -122.7634964,
+    "mag": 0.74,
+    "magType": "md"
+}, {
+    "id": "pr2020282021",
+    "updated": "2020-10-09T04:32:14.827Z",
+    "place": "21 km SE of El Negro, Puerto Rico",
+    "lat": 17.9001,
+    "long": -65.7131,
+    "mag": 3.05,
+    "magType": "md"
+}, {
+    "id": "ak020cypkpi0",
+    "updated": "2020-10-08T20:24:49.288Z",
+    "place": "41 km WNW of Skwentna, Alaska",
+    "lat": 62.149,
+    "long": -152.1105,
+    "mag": 2.1,
+    "magType": "ml"
+}, {
+    "id": "nc73468451",
+    "updated": "2020-10-08T20:19:23.816Z",
+    "place": "4km WNW of Cobb, CA",
+    "lat": 38.8408318,
+    "long": -122.7655029,
+    "mag": 0.54,
+    "magType": "md"
+}, {
+    "id": "ci39656944",
+    "updated": "2020-10-08T20:47:00.328Z",
+    "place": "8km ENE of Coso Junction, CA",
+    "lat": 36.0858333,
+    "long": -117.8701667,
+    "mag": 1.17,
+    "magType": "ml"
+}, {
+    "id": "nc73468436",
+    "updated": "2020-10-08T19:56:00.848Z",
+    "place": "7km NW of The Geysers, CA",
+    "lat": 38.8213348,
+    "long": -122.8081665,
+    "mag": 0.75,
+    "magType": "md"
+}, {
+    "id": "nc73468431",
+    "updated": "2020-10-08T19:55:29.650Z",
+    "place": "7km WNW of The Geysers, CA",
+    "lat": 38.8059998,
+    "long": -122.82267,
+    "mag": 0.32,
+    "magType": "md"
+}, {
+    "id": "ak020cyp6hpy",
+    "updated": "2020-10-08T20:07:50.611Z",
+    "place": "31 km ENE of Susitna North, Alaska",
+    "lat": 62.293,
+    "long": -149.3181,
+    "mag": 1.7,
+    "magType": "ml"
+}, {
+    "id": "hv72172086",
+    "updated": "2020-10-08T19:58:06.340Z",
+    "place": "10 km ENE of Pāhala, Hawaii",
+    "lat": 19.2234992980957,
+    "long": -155.384338378906,
+    "mag": 2.12,
+    "magType": "ml"
+}, {
+    "id": "ci39656904",
+    "updated": "2020-10-08T19:45:21.691Z",
+    "place": "14km WSW of Searles Valley, CA",
+    "lat": 35.7266667,
+    "long": -117.5508333,
+    "mag": 1.32,
+    "magType": "ml"
+}, {
+    "id": "se60311762",
+    "updated": "2020-10-09T12:43:05.260Z",
+    "place": "3 km SE of Sparta, North Carolina",
+    "lat": 36.4803333,
+    "long": -81.0908333,
+    "mag": -0.67,
+    "magType": "md"
+}, {
+    "id": "nc73468421",
+    "updated": "2020-10-08T21:03:07.258Z",
+    "place": "3km SW of Anderson Springs, CA",
+    "lat": 38.751667,
+    "long": -122.7125015,
+    "mag": 1.23,
+    "magType": "md"
+}, {
+    "id": "nc73468416",
+    "updated": "2020-10-08T19:59:04.848Z",
+    "place": "3km SW of Anderson Springs, CA",
+    "lat": 38.7599983,
+    "long": -122.7203369,
+    "mag": 0.79,
+    "magType": "md"
+}, {
+    "id": "ci39656896",
+    "updated": "2020-10-08T20:47:35.334Z",
+    "place": "6km WSW of Idyllwild, CA",
+    "lat": 33.718,
+    "long": -116.7718333,
+    "mag": 0.88,
+    "magType": "ml"
+}, {
+    "id": "nc73468411",
+    "updated": "2020-10-08T20:09:33.975Z",
+    "place": "10km SE of Mammoth Lakes, CA",
+    "lat": 37.5895,
+    "long": -118.8898333,
+    "mag": -0.15,
+    "magType": "md"
+}, {
+    "id": "pr2020282018",
+    "updated": "2020-10-08T22:52:41.467Z",
+    "place": "3 km SSE of Guánica, Puerto Rico",
+    "lat": 17.94,
+    "long": -66.8963,
+    "mag": 2.42,
+    "magType": "md"
+}, {
+    "id": "ci39656824",
+    "updated": "2020-10-08T19:16:13.201Z",
+    "place": "10km S of Idyllwild, CA",
+    "lat": 33.6501667,
+    "long": -116.7073333,
+    "mag": 0.72,
+    "magType": "ml"
+}, {
+    "id": "ak020cyox4k1",
+    "updated": "2020-10-08T19:15:26.599Z",
+    "place": "48 km SW of Cantwell, Alaska",
+    "lat": 63.125,
+    "long": -149.7089,
+    "mag": 1.9,
+    "magType": "ml"
+}, {
+    "id": "nc73468406",
+    "updated": "2020-10-09T00:14:03.279Z",
+    "place": "11km N of Oroville, CA",
+    "lat": 39.6096667,
+    "long": -121.5685,
+    "mag": 1.88,
+    "magType": "md"
+}, {
+    "id": "mb80467429",
+    "updated": "2020-10-08T19:30:18.640Z",
+    "place": "5 km ENE of Butte, Montana",
+    "lat": 46.0141667,
+    "long": -112.4603333,
+    "mag": 1.65,
+    "magType": "ml"
+}, {
+    "id": "ak020cyow1f1",
+    "updated": "2020-10-08T19:13:46.190Z",
+    "place": "29 km SW of Petersville, Alaska",
+    "lat": 62.3395,
+    "long": -151.2351,
+    "mag": 1.9,
+    "magType": "ml"
+}, {
+    "id": "nc73468401",
+    "updated": "2020-10-08T20:23:04.994Z",
+    "place": "4km W of Cobb, CA",
+    "lat": 38.8196678,
+    "long": -122.7666702,
+    "mag": 1.36,
+    "magType": "md"
+}, {
+    "id": "nn00777844",
+    "updated": "2020-10-08T19:06:21.748Z",
+    "place": "33 km ENE of Lee Vining, California",
+    "lat": 38.0362,
+    "long": -118.7567,
+    "mag": 1.3,
+    "magType": "ml"
+}, {
+    "id": "se60311757",
+    "updated": "2020-10-09T12:48:09.630Z",
+    "place": "0 km SE of Sparta, North Carolina",
+    "lat": 36.499,
+    "long": -81.1131667,
+    "mag": -0.61,
+    "magType": "md"
+}, {
+    "id": "nc73468396",
+    "updated": "2020-10-09T02:27:06.495Z",
+    "place": "46km WNW of Petrolia, CA",
+    "lat": 40.4685,
+    "long": -124.7943333,
+    "mag": 2.07,
+    "magType": "md"
+}, {
+    "id": "uw61691971",
+    "updated": "2020-10-08T18:50:31.390Z",
+    "place": "2 km SSW of Kapowsin, Washington",
+    "lat": 46.9673333333333,
+    "long": -122.237666666667,
+    "mag": 1.29,
+    "magType": "ml"
+}, {
+    "id": "nn00777842",
+    "updated": "2020-10-08T18:45:03.491Z",
+    "place": "27 km SSE of Mina, Nevada",
+    "lat": 38.1472,
+    "long": -118.0333,
+    "mag": 0.8,
+    "magType": "ml"
+}, {
+    "id": "nm60311752",
+    "updated": "2020-10-09T15:46:07.330Z",
+    "place": "2 km S of Ridgely, Tennessee",
+    "lat": 36.2406667,
+    "long": -89.486,
+    "mag": 1.38,
+    "magType": "md"
+}, {
+    "id": "us6000c6um",
+    "updated": "2020-10-08T21:10:32.040Z",
+    "place": "296 km WNW of Ozernovskiy, Russia",
+    "lat": 52.6971,
+    "long": 152.6372,
+    "mag": 5,
+    "magType": "mb"
+}, {
+    "id": "nc73468381",
+    "updated": "2020-10-08T18:55:05.489Z",
+    "place": "5km WNW of Cobb, CA",
+    "lat": 38.8328323,
+    "long": -122.7805023,
+    "mag": 0.58,
+    "magType": "md"
+}, {
+    "id": "ak020cyochl8",
+    "updated": "2020-10-08T18:18:06.693Z",
+    "place": "33 km WNW of Nikiski, Alaska",
+    "lat": 60.8353,
+    "long": -151.8208,
+    "mag": 1.7,
+    "magType": "ml"
+}, {
+    "id": "nm60114723",
+    "updated": "2020-10-09T16:42:27.978Z",
+    "place": "6 km E of Maynard, Arkansas",
+    "lat": 36.4261667,
+    "long": -90.8245,
+    "mag": 2.56,
+    "magType": "md"
+}, {
+    "id": "pr2020282017",
+    "updated": "2020-10-08T18:26:37.600Z",
+    "place": "7 km SSW of La Parguera, Puerto Rico",
+    "lat": 17.9181,
+    "long": -67.0811,
+    "mag": 1.61,
+    "magType": "md"
+}, {
+    "id": "nc73468376",
+    "updated": "2020-10-08T18:23:04.335Z",
+    "place": "7km WNW of Cobb, CA",
+    "lat": 38.8354988,
+    "long": -122.8048325,
+    "mag": 0.83,
+    "magType": "md"
+}, {
+    "id": "us6000c6ui",
+    "updated": "2020-10-08T21:03:14.040Z",
+    "place": "246 km E of Levuka, Fiji",
+    "lat": -18.1937,
+    "long": -178.3616,
+    "mag": 4.2,
+    "magType": "mb"
+}, {
+    "id": "pr2020282016",
+    "updated": "2020-10-08T18:23:34.592Z",
+    "place": "2 km N of Yauco, Puerto Rico",
+    "lat": 18.0533,
+    "long": -66.8483,
+    "mag": 2.28,
+    "magType": "md"
+}, {
+    "id": "nc73468371",
+    "updated": "2020-10-09T02:24:44.113Z",
+    "place": "27km SE of Bodie, CA",
+    "lat": 38.050499,
+    "long": -118.7791672,
+    "mag": 2.32,
+    "magType": "md"
+}, {
+    "id": "ak020cynz8pe",
+    "updated": "2020-10-08T20:46:50.040Z",
+    "place": "Southern Alaska",
+    "lat": 60.0944,
+    "long": -152.9572,
+    "mag": 2.6,
+    "magType": "ml"
+}, {
+    "id": "ak020cynxyuq",
+    "updated": "2020-10-08T17:50:05.704Z",
+    "place": "32 km S of Manley Hot Springs, Alaska",
+    "lat": 64.7157,
+    "long": -150.5614,
+    "mag": 1.3,
+    "magType": "ml"
+}, {
+    "id": "ci39656728",
+    "updated": "2020-10-08T17:46:03.974Z",
+    "place": "13km WNW of Anza, CA",
+    "lat": 33.6026667,
+    "long": -116.7981667,
+    "mag": 0.35,
+    "magType": "ml"
+}, {
+    "id": "ci39656712",
+    "updated": "2020-10-08T23:19:54.968Z",
+    "place": "13km WNW of Anza, CA",
+    "lat": 33.5836667,
+    "long": -116.814,
+    "mag": 2.66,
+    "magType": "ml"
+}, {
+    "id": "pr2020282015",
+    "updated": "2020-10-08T17:35:48.495Z",
+    "place": "13 km SSE of Maria Antonia, Puerto Rico",
+    "lat": 17.8693,
+    "long": -66.836,
+    "mag": 2.59,
+    "magType": "md"
+}]

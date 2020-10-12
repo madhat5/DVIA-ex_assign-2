@@ -74,6 +74,39 @@ dayJson.forEach((el, i) => {
     // console.log(i)
 
     cleanData.push({
+        dataSegment: day,
+        id: el.id,
+        updated: el.updated,
+        place: el.place,
+        lat: el.latitude,
+        long: el.longitude,
+        mag: el.mag,
+        magType: el.magType
+    });
+});
+
+weekJson.forEach((el, i) => {
+    // console.log(el)
+    // console.log(i)
+
+    cleanData.push({
+        dataSegment: week,
+        id: el.id,
+        updated: el.updated,
+        place: el.place,
+        lat: el.latitude,
+        long: el.longitude,
+        mag: el.mag,
+        magType: el.magType
+    });
+});
+
+monthJson.forEach((el, i) => {
+    // console.log(el)
+    // console.log(i)
+
+    cleanData.push({
+        dataSegment: month,
         id: el.id,
         updated: el.updated,
         place: el.place,

@@ -74,7 +74,7 @@ dayJson.forEach((el, i) => {
     // console.log(i)
 
     cleanData.push({
-        dataSegment: day,
+        dataSegment: "day",
         id: el.id,
         updated: el.updated,
         place: el.place,
@@ -90,7 +90,7 @@ weekJson.forEach((el, i) => {
     // console.log(i)
 
     cleanData.push({
-        dataSegment: week,
+        dataSegment: "week",
         id: el.id,
         updated: el.updated,
         place: el.place,
@@ -106,7 +106,7 @@ monthJson.forEach((el, i) => {
     // console.log(i)
 
     cleanData.push({
-        dataSegment: month,
+        dataSegment: "month",
         id: el.id,
         updated: el.updated,
         place: el.place,

@@ -6,8 +6,8 @@ let svg = d3.select("svg"),
 
 // Map and projection
 let projection = d3.geoMercator()
-    .center([-98, 38]) // GPS of location to zoom on
-    .scale(600) // This is like the zoom
+    .center([-100, 39]) // GPS of location to zoom on
+    .scale(550) // This is like the zoom
     .translate([width / 2, height / 2])
 
 // let checkMouse = function(obj){
@@ -33,12 +33,12 @@ $.getJSON("./data/cleanData.json", jsonData => {
 
         // Create a color scale
         let color = d3.scaleOrdinal()
-            .domain(["A", "B", "C"])
-            .range(["#8fd175", "#D18975", "#8FD175"])
+            .domain(jsonData)
+            .range(d3.schemePaired)
 
-        let size = d3.scaleLinear()
-            .domain([0, 1]) // What's in the data
-            .range([5, 15]) // Size in pixel
+        let size = d3.scaleOrdinal()
+            .domain(jsonData) // What's in the data
+            .range([5, 10]) // Size in pixel
 
         // Draw the map
         svg.append("g")
@@ -104,5 +104,30 @@ $.getJSON("./data/cleanData.json", jsonData => {
                 // .on("mouseover", mouseover)
                 // .on("mousemove", mousemove)
                 // .on("mouseleave", mouseleave)
+
+                                // This function is gonna change the opacity and size of selected and unselected circles
+                function update(){
+
+                    // For each check box:
+                    d3.selectAll(".checkbox").each(function(d){
+                    cb = d3.select(this);
+                    grp = cb.property("value")
+            
+                    // If the box is check, I show the group
+                    if(cb.property("checked")){
+                        svg.selectAll("."+grp).transition().duration(1000).style("opacity", 1).attr("r", function(d){ return size(d.size) })
+            
+                    // Otherwise I hide it
+                    }else{
+                        svg.selectAll("."+grp).transition().duration(1000).style("opacity", 0).attr("r", 0)
+                    }
+                    })
+                }
+            
+                // When a button change, I run the update function
+                d3.selectAll(".checkbox").on("change",update);
+            
+                // And I initialize it at the beginning
+                update()
     })
 })

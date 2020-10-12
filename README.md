@@ -34,7 +34,7 @@ Answer project questions as you go along
 - Who are we targeting?
     - How is the end product going to be used?
     - How are we publishing?
-*_____________________*
+*=====================*
 - What data do we have available? 
     - Which quantitative dataset is used? 
     - What are the properties of the data set? 
@@ -43,7 +43,7 @@ Answer project questions as you go along
     - Which other existing materials should we take into account?
     - Which constraints do we have?
 - use R to explore data?
-*_____________________*
+*=====================*
 - Which visualization method is used and why?
     - What does the visualization enable?
     - Is this a static visualization? Is it interactive?
@@ -56,7 +56,7 @@ Answer project questions as you go along
         > https://www.data-to-viz.com/
         > https://www.d3-graph-gallery.com/
         > https://observablehq.com/@d3/gallery
-*_____________________*
+*=====================*
 - Who else is doing something similar?
 - Abstract/summary/about, re: methodolgy? (1-2 pars)
     - What were your considerations? 

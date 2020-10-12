@@ -42,6 +42,7 @@ Answer project questions as you go along
     - Is this a static visualization? Is it interactive?
     - color: Is it intentional and intuitive? data decodable by audience?
         - legends, annotations
+            > https://d3-legend.susielu.com/
     - clear text hierarchy?
     - link to data?
     - links
@@ -93,3 +94,5 @@ Answer project questions as you go along
 > https://bl.ocks.org/
 > https://observablehq.com/@d3/bubble-map
 > https://bost.ocks.org/mike/bubble-map/
+> https://www.d3indepth.com/scales/
+> https://d3-legend.susielu.com/

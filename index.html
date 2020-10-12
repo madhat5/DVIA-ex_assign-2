@@ -9,16 +9,21 @@
 </head>
 
 <body>
-    <h1 style="font-family: Arial, Helvetica, sans-serif;">US Earthquake activity over time, by magnitude</h1>
+    <h1>US Earthquake activity over time, by magnitude</h1>
     <!-- <div id="chart"></div> -->
     <!-- Button -->
-    <!-- <div>
-        <input type="checkbox" class="checkbox" value="A" checked><label>ml</label>
-        <input type="checkbox" class="checkbox" value="B" checked><label>md</label>
-        <input type="checkbox" class="checkbox" value="C" checked><label>mb</label>
-    </div> -->
+    <div>
+        <input type="checkbox" class="checkbox" value="md" checked><label>md</label>
+        <input type="checkbox" class="checkbox" value="ml" checked><label>ml</label>
+        <input type="checkbox" class="checkbox" value="mb" checked><label>mb</label>
+        <input type="checkbox" class="checkbox" value="mww" checked><label>mww</label>
+        <input type="checkbox" class="checkbox" value="mh" checked><label>mh</label>
+        <input type="checkbox" class="checkbox" value="mb_lg" checked><label>mb_lg</label>
+        <input type="checkbox" class="checkbox" value="mwr" checked><label>mwr</label>
+        <input type="checkbox" class="checkbox" value="mw" checked><label>mw</label>
+    </div>
 
-    <svg id="chart" width="700" height="400"></svg>
+    <svg id="chart" width="1000" height="400"></svg>
 
 
 </body>
@@ -28,6 +33,7 @@
 <!-- <script src="https://d3js.org/d3.v4.js"></script> -->
 <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js" integrity="sha512-wNH6xsp2n8CfB91nrBtfc4sfLwYPBMjSWVUwQOp60AYYXH6i8yCwuKFZ4rgK2i6pQek/b+bSyR7b01/922IBzQ==" crossorigin="anonymous"></script>
 <!-- <script src="https://d3js.org/d3-color.v2.min.js"></script>
 <script src="https://d3js.org/d3-interpolate.v2.min.js"></script> -->
 <!-- <script src="https://d3js.org/d3-scale-chromatic.v2.min.js"></script> -->

@@ -19,9 +19,7 @@ let projection = d3.geoMercator()
 // Load external data and boot÷…
 $.getJSON("./data/cleanData.json", jsonData => {
     // console.log(jsonData[0].lat)
-    console.log(jsonData[0].mag)
-    
-    let extent = d3.extent(jsonData);
+    // console.log(jsonData[0].mag)
 
     d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson", (data) => {
 
@@ -36,9 +34,15 @@ $.getJSON("./data/cleanData.json", jsonData => {
             .domain(jsonData)
             .range(d3.schemePaired)
 
-        let size = d3.scaleOrdinal()
-            .domain(jsonData) // What's in the data
-            .range([5, 15]) // Size in pixel
+        var valueExtent = d3.extent(jsonData, (d) => {
+            return +d.mag;
+        })
+        // console.log(valueExtent);
+
+        // let size = d3.scaleSqrt()
+        let size = d3.scaleLinear()
+            .domain(valueExtent) // What's in the data
+            .range([0, 25]) // Size in pixel
 
         // Draw the map
         svg.append("g")
@@ -46,65 +50,115 @@ $.getJSON("./data/cleanData.json", jsonData => {
             .data(data.features)
             .enter()
             .append("path")
-                .attr("fill", "grey")
-                .attr("d", d3.geoPath()
-                    .projection(projection)
-                )
-                .style("stroke", "none")
+            .attr("fill", "grey")
+            .attr("d", d3.geoPath()
+                .projection(projection)
+            )
+            .style("stroke", "none")
 
-        // =========
-        // create a tooltip
-        let Tooltip = d3.select("#chart")
-            .append("div")
-                .attr("class", "tooltip")
-                .style("opacity", 1)
-                .style("background-color", "white")
-                .style("border", "solid")
-                .style("border-width", "2px")
-                .style("border-radius", "5px")
-                .style("padding", "5px")
-
-        // Three function that change the tooltip when user hover / move / leave a cell
-        let mouseover = (d) => {
-            Tooltip.style("opacity", 1)
-        }
-        let mousemove = (d) => {
-            Tooltip
-                .html(d.place + "<br>" + "long: " + d.long + "<br>" + "lat: " + d.lat)
-                .style("left", (d3.mouse(this)[0] + 10) + "px")
-                .style("top", (d3.mouse(this)[1]) + "px")
-        }
-        let mouseleave = (d) => {
-            Tooltip.style("opacity", 0)
-        }
-        // =========  
         // Add circles:
         svg
             .selectAll("myCircles")
             .data(jsonData)
             .enter()
             .append("circle")
-                .attr("cx", (d) => {
-                    return projection([d.long, d.lat])[0]
-                })
-                .attr("cy", (d) => {
-                    return projection([d.long, d.lat])[1]
-                })
-                .attr("r", (d) => {
-                    return size(d.mag)
-                })
-                .style("fill", (d) => {
+            .attr("cx", (d) => {
+                return projection([d.long, d.lat])[0]
+            })
+            .attr("cy", (d) => {
+                return projection([d.long, d.lat])[1]
+            })
+            .attr("r", (d) => {
+                // console.log(size(Math.abs(d.mag)))
+                return size(Math.abs(d.mag))
+            })
+            .style("fill", (d) => {
+                return color(d.magType)
+            })
+            .attr("stroke", (d) => {
+                if (d.mag > 4) {
+                    return "brown"
+                } else {
                     return color(d.magType)
-                })
-                // .attr("stroke", ('red'))
-                .attr("stroke", (d) => {
-                    return color(d.magType)
-                })
-                .attr("stroke-width", 1)
-                .attr("fill-opacity", .4)
-                // .on("mouseover", mouseover)
-                // .on("mousemove", mousemove)
-                // .on("mouseleave", mouseleave)
+                }
+            })
+            .attr("stroke-width", 1)
+            .attr("fill-opacity", .4)
 
+        // --------------- //
+        // TITLE //
+        // --------------- //
+        svg
+            .append("text")
+            .attr("text-anchor", "end")
+            .style("fill", "brown")
+            .attr("transform", "translate(130, 360)")
+            .attr("width", 90)
+            .html("Magnitude size > 4")
+            .style("font-size", 14)
+            .style('font-family', 'arial')
+
+        // --------------- //
+        // LEGEND //
+        // --------------- //
+        svg.append("g")
+            .attr("class", "legendSize")
+            .attr("transform", "translate(20, 280)");
+
+        let sizeLegend = d3.legendSize()
+            .scale(size)
+            .shape('circle')
+            .shapePadding(15)
+            .labelOffset(20)
+            .orient('horizontal');
+
+        svg.select(".legendSize")
+            .call(sizeLegend);
+
+        svg.append("g")
+            .attr("class", "legendOrdinal")
+            .attr("transform", "translate(20,20)");
+
+        var colorLegend = d3.legendColor()
+            .shape("path", d3.symbol().type(d3.symbolCircle).size(150)())
+            .shapePadding(10)
+            //use cellFilter to hide the "e" cell
+            .cellFilter((d) => {
+                return d.label !== "e"
+            })
+            .scale(color);
+
+        svg.select(".legendOrdinal")
+            .call(colorLegend);
+
+        // --------------- //
+        // UPDATE GROUP SELECT //
+        // --------------- //
+        // This function is gonna change the opacity and size of selected and unselected circles
+        function update() {
+
+            // For each check box:
+            d3.selectAll(".checkbox").each((d) => {
+                cb = d3.select(this);
+                grp = cb.property("value")
+
+                // If the box is check, I show the group
+                if (cb.property("checked")) {
+                    svg.selectAll("." + grp).transition().duration(1000).style("opacity", 1).attr("r", (d) => {
+                        return size(d.mag)
+                    })
+
+                    // Otherwise I hide it
+                } else {
+                    svg.selectAll("." + grp).transition().duration(1000).style("opacity", 0).attr("r", 0)
+                }
+            })
+        }
+
+        // When a button change, I run the update function
+        d3.selectAll(".checkbox").on("change", update);
+
+        // And I initialize it at the beginning
+        update()
     })
 })

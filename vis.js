@@ -6,7 +6,7 @@ let svg = d3.select("svg"),
 
 // Map and projection
 let projection = d3.geoMercator()
-    .center([-100, 39]) // GPS of location to zoom on
+    .center([-100, 40]) // GPS of location to zoom on
     .scale(550) // This is like the zoom
     .translate([width / 2, height / 2])
 
@@ -38,7 +38,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
 
         let size = d3.scaleOrdinal()
             .domain(jsonData) // What's in the data
-            .range([5, 10]) // Size in pixel
+            .range([5, 12]) // Size in pixel
 
         // Draw the map
         svg.append("g")

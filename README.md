@@ -1,9 +1,9 @@
 # DVIA - Visualize Quantities, Categories, and Summarized Data
 
 ### To Run
-npm install
-node data.js
-open local server to index:html
+1. npm install
+2. node data.js
+3. open local server to index:html
 ============================================================
 
 ### Reqs

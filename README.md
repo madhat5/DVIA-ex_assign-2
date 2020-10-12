@@ -91,3 +91,5 @@ Answer project questions as you go along
 > https://python-graph-gallery.com/
 > https://www.r-graph-gallery.com/
 > https://bl.ocks.org/
+> https://observablehq.com/@d3/bubble-map
+> https://bost.ocks.org/mike/bubble-map/

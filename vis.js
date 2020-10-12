@@ -29,12 +29,15 @@ $.getJSON("./data/cleanData.json", jsonData => {
             return d.properties.name == "USA"
         })
 
+        // --------------- //
+        // SCALE AND MAP //
+        // --------------- //
         // Create a color scale
         let color = d3.scaleOrdinal()
             .domain(jsonData)
             .range(d3.schemePaired)
 
-        var valueExtent = d3.extent(jsonData, (d) => {
+        let valueExtent = d3.extent(jsonData, (d) => {
             return +d.mag;
         })
         // console.log(valueExtent);
@@ -56,7 +59,47 @@ $.getJSON("./data/cleanData.json", jsonData => {
             )
             .style("stroke", "none")
 
-        // Add circles:
+        // --------------- //
+        // TOOLTIP //
+        // --------------- //
+        // -1- Create a tooltip div that is hidden by default:
+        // var tooltip = d3.select("#chart")
+        //     .append("div")
+        //     .style("opacity", 0)
+        //     .attr("class", "tooltip")
+        //     .style("background-color", "black")
+        //     .style("border-radius", "5px")
+        //     .style("padding", "10px")
+        //     .style("color", "white")
+
+        // // -2- Create 3 functions to show / update (when mouse move but stay on same circle) / hide the tooltip
+        // var showTooltip = (d) => {
+        //     console.log("mouseover on", this);
+        //     tooltip
+        //         .transition()
+        //         .duration(200)
+        //     tooltip
+        //         .style("opacity", 1)
+        //         .html("Mag.: " + d.mag + "<br>" + "long: " + d.long + "<br>" + "lat: " + d.lat)
+        //         .style("left", (d3.mouse(this)[0] + 30) + "px")
+        //         .style("top", (d3.mouse(this)[1] + 30) + "px")
+        // }
+        // var moveTooltip = (d) => {
+        //     tooltip
+        //         .style("left", (d3.mouse(this)[0] + 30) + "px")
+        //         .style("top", (d3.mouse(this)[1] + 30) + "px")
+        // }
+        // var hideTooltip = (d) => {
+        //     console.log("mouseout", this);
+        //     tooltip
+        //         .transition()
+        //         .duration(200)
+        //         .style("opacity", 0)
+        // }
+
+        // --------------- //
+        // CIRCLS //
+        // --------------- //
         svg
             .selectAll("myCircles")
             .data(jsonData)
@@ -84,6 +127,9 @@ $.getJSON("./data/cleanData.json", jsonData => {
             })
             .attr("stroke-width", 1)
             .attr("fill-opacity", .4)
+            // .on("mouseover", showTooltip)
+            // .on("mousemove", moveTooltip)
+            // .on("mouseleave", hideTooltip)
 
         // --------------- //
         // TITLE //
@@ -92,7 +138,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
             .append("text")
             .attr("text-anchor", "end")
             .style("fill", "brown")
-            .attr("transform", "translate(130, 360)")
+            .attr("transform", "translate(130, 380)")
             .attr("width", 90)
             .html("Magnitude size > 4")
             .style("font-size", 14)
@@ -103,7 +149,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
         // --------------- //
         svg.append("g")
             .attr("class", "legendSize")
-            .attr("transform", "translate(20, 280)");
+            .attr("transform", "translate(20, 300)");
 
         let sizeLegend = d3.legendSize()
             .scale(size)
@@ -117,9 +163,9 @@ $.getJSON("./data/cleanData.json", jsonData => {
 
         svg.append("g")
             .attr("class", "legendOrdinal")
-            .attr("transform", "translate(20,20)");
+            .attr("transform", "translate(20,40)");
 
-        var colorLegend = d3.legendColor()
+        let colorLegend = d3.legendColor()
             .shape("path", d3.symbol().type(d3.symbolCircle).size(150)())
             .shapePadding(10)
             //use cellFilter to hide the "e" cell
@@ -136,11 +182,12 @@ $.getJSON("./data/cleanData.json", jsonData => {
         // --------------- //
         // This function is gonna change the opacity and size of selected and unselected circles
         function update() {
-
             // For each check box:
             d3.selectAll(".checkbox").each((d) => {
                 cb = d3.select(this);
                 grp = cb.property("value")
+                // console.log(cb)
+                console.log(grp)
 
                 // If the box is check, I show the group
                 if (cb.property("checked")) {
@@ -156,7 +203,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
         }
 
         // When a button change, I run the update function
-        d3.selectAll(".checkbox").on("change", update);
+        d3.selectAll(".checkbox").on("change", console.log('click'));
 
         // And I initialize it at the beginning
         update()

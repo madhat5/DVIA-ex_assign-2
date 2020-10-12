@@ -1,9 +1,20 @@
-h1 {
+body {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
     font-size: 18px;
 }
 
-.circle:hover {
+/* .circle:hover {
     stroke: black;
-    stroke-width: 4px;
-}
+    stroke-width: 1px;
+} */
+
+.bubbles {
+    stroke-width: 2px;
+    stroke: white;
+  }
+  .bubbles:hover {
+    stroke: black;
+  }

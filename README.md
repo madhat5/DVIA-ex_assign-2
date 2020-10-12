@@ -1,5 +1,11 @@
 # DVIA - Visualize Quantities, Categories, and Summarized Data
 
+### To Run
+npm install
+node data.js
+open local server to index:html
+============================================================
+
 ### Reqs
 - Dataset: 
     > http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.phpz
@@ -36,6 +42,7 @@ Answer project questions as you go along
     - What's the quality of the data? 
     - Which other existing materials should we take into account?
     - Which constraints do we have?
+- use R to explore data?
 *_____________________*
 - Which visualization method is used and why?
     - What does the visualization enable?
@@ -96,3 +103,5 @@ Answer project questions as you go along
 > https://bost.ocks.org/mike/bubble-map/
 > https://www.d3indepth.com/scales/
 > https://d3-legend.susielu.com/
+> https://www.d3-graph-gallery.com/graph/bubble_tooltip.html
+> https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html

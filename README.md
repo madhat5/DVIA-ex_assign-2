@@ -23,7 +23,7 @@ Answer project questions as you go along
 3. Mine/explore/sketch/iterate several simple graphics, re: stories (same or diff?), pick one
 4. Code initial draft (pseudo first?)
 5. Refine/declutter/clean/annotate/clarify (color, labels, titles, legend, summary, etc)
-6. Interactivity
+6. Interactivity (more than tooltips, eg: scrolling)
 7. Share
 
 **Project Questions**
@@ -51,13 +51,14 @@ Answer project questions as you go along
     - Is this a static visualization? Is it interactive?
     - color: Is it intentional and intuitive? data decodable by audience?
         - legends, annotations
-            > https://d3-legend.susielu.com/
     - clear text hierarchy?
     - link to data?
     - links
         > https://www.data-to-viz.com/
         > https://www.d3-graph-gallery.com/
         > https://observablehq.com/@d3/gallery
+        > https://d3-legend.susielu.com/
+        > https://colorbrewer2.org/
 
 *=====================*
 - Who else is doing something similar?
@@ -108,3 +109,8 @@ Answer project questions as you go along
 > https://d3-legend.susielu.com/
 > https://www.d3-graph-gallery.com/graph/bubble_tooltip.html
 > https://www.d3-graph-gallery.com/graph/interactivity_tooltip.html
+> https://www.d3-graph-gallery.com/graph/line_select.html
+
+### Notes
+- Methodology influences:
+    - Ben Fry, Amanda Cox, Alberto Cairo, Mike Bostock

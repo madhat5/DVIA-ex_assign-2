@@ -23,6 +23,10 @@ $.getJSON("./data/cleanData.json", jsonData => {
 
     d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson", (data) => {
 
+
+        // --------------- //
+        // DATA //
+        // --------------- //
         // Filter data
         data.features = data.features.filter((d) => {
             // console.log(d.properties.name);
@@ -45,7 +49,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
         // let size = d3.scaleSqrt()
         let size = d3.scaleLinear()
             .domain(valueExtent) // What's in the data
-            .range([0, 25]) // Size in pixel
+            .range([0, 11]) // Size in pixel
 
         // Draw the map
         svg.append("g")
@@ -98,7 +102,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
         // }
 
         // --------------- //
-        // CIRCLS //
+        // CIRCLES //
         // --------------- //
         svg
             .selectAll("myCircles")
@@ -127,9 +131,9 @@ $.getJSON("./data/cleanData.json", jsonData => {
             })
             .attr("stroke-width", 1)
             .attr("fill-opacity", .4)
-            // .on("mouseover", showTooltip)
-            // .on("mousemove", moveTooltip)
-            // .on("mouseleave", hideTooltip)
+        // .on("mouseover", showTooltip)
+        // .on("mousemove", moveTooltip)
+        // .on("mouseleave", hideTooltip)
 
         // --------------- //
         // TITLE //
@@ -149,6 +153,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
         // --------------- //
         svg.append("g")
             .attr("class", "legendSize")
+            .style('color', 'grey')
             .attr("transform", "translate(20, 300)");
 
         let sizeLegend = d3.legendSize()
@@ -178,7 +183,7 @@ $.getJSON("./data/cleanData.json", jsonData => {
             .call(colorLegend);
 
         // --------------- //
-        // UPDATE GROUP SELECT //
+        // UPDATE //
         // --------------- //
         // This function is gonna change the opacity and size of selected and unselected circles
         function update() {
@@ -186,14 +191,15 @@ $.getJSON("./data/cleanData.json", jsonData => {
             d3.selectAll(".checkbox").each((d) => {
                 cb = d3.select(this);
                 grp = cb.property("value")
-                // console.log(cb)
+                console.log(cb)
                 console.log(grp)
 
                 // If the box is check, I show the group
                 if (cb.property("checked")) {
-                    svg.selectAll("." + grp).transition().duration(1000).style("opacity", 1).attr("r", (d) => {
-                        return size(d.mag)
-                    })
+                    console.log(cb.property)
+                    // svg.selectAll("." + grp).transition().duration(1000).style("opacity", 1).attr("r", (d) => {
+                    //     return size(d.mag)
+                    // })
 
                     // Otherwise I hide it
                 } else {

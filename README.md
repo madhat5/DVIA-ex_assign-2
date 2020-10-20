@@ -16,6 +16,8 @@
 
 ============================================================
 
+[US Earthquake activity over time, by magnitude](https://github.com/madhat5/DVIA-ex_assign-2/blob/main/assets/proj2-img.png?raw=true)
+
 **Project Approach**
 Answer project questions as you go along
 1. Audience questions
